@@ -2,65 +2,73 @@
   {
     "index": 1,
     "title": "Makharij al-Huruf",
+    "title_urdu": "مخارج الحروف",
     "english_title": "Articulation Points of Letters",
-    "description": "Makharij are the points in the mouth, throat, and nose from which letters are pronounced. There are 17 articulation points categorized into 5 main areas: Jawf (oral cavity), Halq (throat), Lisan (tongue), Shafatan (lips), and Khaishoom (nasal cavity).",
-    "level": "Beginner"
+    "level": "Beginner",
+    "tags": ["pronunciation", "mouth positions", "beginner"]
   },
   {
     "index": 2,
     "title": "Sifaat al-Huruf",
+    "title_urdu": "صفات الحروف",
     "english_title": "Characteristics of Letters",
-    "description": "Sifaat are the qualities that define how each Arabic letter is pronounced. There are 17 main characteristics such as hams (breath), jahr (sound), shiddah (strength), and others that help distinguish similar letters.",
-    "level": "Intermediate"
+    "level": "Intermediate",
+    "tags": ["letter features", "tajweed", "intermediate"]
   },
   {
     "index": 3,
     "title": "Ghunnah",
+    "title_urdu": "غنہ",
     "english_title": "Nasal Sound",
-    "description": "Ghunnah is a nasal sound that is applied in letters Noon (ن) and Meem (م) when they have shaddah or appear in Tajweed rules like Idgham or Ikhfa. It is typically held for two counts.",
-    "level": "Beginner"
+    "level": "Beginner",
+    "tags": ["nasal", "noon", "meem", "beginner"]
   },
   {
     "index": 4,
     "title": "Noon Sakinah and Tanween Rules",
+    "title_urdu": "نون ساکنہ اور تنوین کے قواعد",
     "english_title": "Rules of Noon and Tanween",
-    "description": "These rules govern how to pronounce Noon Sakinah (نْ) and Tanween (ــًــٍــٌ) when followed by different letters. The four rules are: Izhar (clear), Idgham (merge), Iqlab (convert), and Ikhfa (hide).",
-    "level": "Intermediate"
+    "level": "Intermediate",
+    "tags": ["izhar", "idgham", "iqlab", "ikhfa", "intermediate"]
   },
   {
     "index": 5,
     "title": "Meem Sakinah Rules",
+    "title_urdu": "میم ساکنہ کے قواعد",
     "english_title": "Rules of Meem",
-    "description": "These rules apply to the letter Meem (م) when it has a sukoon and is followed by another letter. The three rules are: Ikhfaa Shafawi (hidden), Idgham Shafawi (merge), and Izhar Shafawi (clear).",
-    "level": "Intermediate"
+    "level": "Intermediate",
+    "tags": ["shafawi", "idgham", "izhar", "intermediate"]
   },
   {
     "index": 6,
     "title": "Qalqalah",
+    "title_urdu": "قلقلہ",
     "english_title": "Echoing Sound",
-    "description": "Qalqalah is a bouncing or echoing sound that occurs when certain letters (ق ط ب ج د) are in a state of sukoon or occur at the end of a word where the reader stops.",
-    "level": "Beginner"
+    "level": "Beginner",
+    "tags": ["echo", "letters", "beginner"]
   },
   {
     "index": 7,
     "title": "Madd",
+    "title_urdu": "مد",
     "english_title": "Prolongation/Elongation",
-    "description": "Madd refers to the elongation of certain letters for 2, 4, or 6 counts depending on the rule. It is divided into Madd Asli (natural) and Madd Far'i (secondary, like caused by a Hamzah or Sukoon).",
-    "level": "Advanced"
+    "level": "Advanced",
+    "tags": ["elongation", "madd asli", "madd far'i", "advanced"]
   },
   {
     "index": 8,
     "title": "Tafkheem and Tarqeeq",
+    "title_urdu": "تفخیم اور ترقیق",
     "english_title": "Heavy and Light Letters",
-    "description": "Tafkheem means making the sound heavy, and Tarqeeq means making it light. Some letters are always heavy (like خ, ص, ض), some are always light, and some like ر can change depending on context.",
-    "level": "Intermediate"
+    "level": "Intermediate",
+    "tags": ["heavy", "light", "tafkheem", "tarqeeq", "intermediate"]
   },
   {
     "index": 9,
     "title": "Waqf",
+    "title_urdu": "وقف",
     "english_title": "Stopping Rules",
-    "description": "Waqf refers to the rules of stopping when reading Quran. It includes proper pausing, stopping completely, or continuing. Types include Waqf Taam, Kafi, Hasan, and Qabih, and are often marked in the Mushaf.",
-    "level": "Advanced"
+    "level": "Advanced",
+    "tags": ["stop", "pause", "rules", "advanced"]
   }
 ]
-
