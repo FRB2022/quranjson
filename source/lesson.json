@@ -70,5 +70,53 @@
     "english_title": "Stopping Rules",
     "level": "Advanced",
     "tags": ["stop", "pause", "rules", "advanced"]
+  },
+  {
+    "index": 10,
+    "title": "Idgham",
+    "title_urdu": "ادغام",
+    "english_title": "Merging of Letters",
+    "level": "Intermediate",
+    "tags": ["merge", "noon", "tanween", "intermediate"]
+  },
+  {
+    "index": 11,
+    "title": "Ikhfa",
+    "title_urdu": "اخفاء",
+    "english_title": "Hiding the Sound",
+    "level": "Intermediate",
+    "tags": ["hiding", "noon", "ghunnah", "intermediate"]
+  },
+  {
+    "index": 12,
+    "title": "Izhar",
+    "title_urdu": "اظہار",
+    "english_title": "Clear Pronunciation",
+    "level": "Intermediate",
+    "tags": ["clarity", "noon", "tanween", "intermediate"]
+  },
+  {
+    "index": 13,
+    "title": "Iqlab",
+    "title_urdu": "اقلاب",
+    "english_title": "Conversion",
+    "level": "Intermediate",
+    "tags": ["convert", "noon", "meem", "intermediate"]
+  },
+  {
+    "index": 14,
+    "title": "Rules of Raa",
+    "title_urdu": "راء کے قواعد",
+    "english_title": "Rules of the Letter Raa",
+    "level": "Intermediate",
+    "tags": ["raa", "heavy", "light", "intermediate"]
+  },
+  {
+    "index": 15,
+    "title": "Rules of Laam",
+    "title_urdu": "لام کے قواعد",
+    "english_title": "Rules of the Letter Laam",
+    "level": "Intermediate",
+    "tags": ["laam", "definite article", "intermediate"]
   }
 ]
