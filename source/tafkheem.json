@@ -1,0 +1,44 @@
+{
+  "index": 4,
+  "lesson_name": "Tafkheem",
+  "course": {
+    "definition": "Tafkheem (تفخيم) means ‘heaviness’ or ‘thickness’ in pronunciation. It refers to pronouncing a letter with a full, heavy sound that echoes in the mouth cavity. It is mostly related to the ‘heavy letters’ in Tajweed.",
+    "importance": "Tafkheem helps distinguish letters like ق from ك, or ص from س. Without correct Tafkheem, meaning may be altered and fluency compromised. It enhances the majesty and beauty of certain letters and names in the Qur’an (e.g., 'الله').",
+    "tafkheem_letters": [
+      "خ",
+      "ص",
+      "ض",
+      "غ",
+      "ط",
+      "ق",
+      "ظ"
+    ],
+    "levels_of_tafkheem": [
+      {
+        "level": "Highest",
+        "example": "الله – when preceded by Fatha or Dhamma",
+        "note": "The Lam in Allah becomes heavy in 'Allahu' or 'Qal Allahu'"
+      },
+      {
+        "level": "Medium",
+        "example": "قَدْ أَفْلَحَ – ‘Qad Aflaha’",
+        "note": "Typical Tafkheem letters in regular usage"
+      },
+      {
+        "level": "Low",
+        "example": "قِيلَ – with Kasrah",
+        "note": "Tafkheem still applied, but softened due to Kasrah"
+      }
+    ],
+    "rules_for_lam_in_allah": [
+      "Heavy when preceded by Fatha or Dhamma (e.g., 'Allahu', 'Qala Allahu')",
+      "Light when preceded by Kasrah (e.g., 'Bismillah')"
+    ],
+    "common_mistakes": [
+      "Applying Tafkheem to non-heavy letters like س or ت",
+      "Forgetting Tafkheem in heavy letters like ط or ق",
+      "Reading 'Allah' lightly when preceded by Fatha"
+    ],
+    "conclusion": "Tafkheem elevates the majesty of the Qur’an’s recitation. It adds depth to certain sounds and maintains clarity between similar letters. Mastery of Tafkheem ensures both linguistic accuracy and enhanced beauty in reciting Allah’s words."
+  }
+}
