@@ -1,0 +1,50 @@
+{
+  "index": 5,
+  "lesson_name": "Qalqalah",
+  "course": {
+    "definition": "Qalqalah (قلقلة) means 'echo' or 'bounce'. In Tajweed, it refers to a vibration or slight echoing sound made when certain letters are pronounced with a sukoon (non-vowel state), especially in the middle or end of a word. It ensures clarity and prevents the sound from becoming too soft or lost.",
+    "importance": "The concept of Qalqalah adds clarity and strength to the pronunciation of specific letters. Without it, letters like ب or د may be pronounced too softly or missed entirely. Qalqalah helps in maintaining the integrity of the Quranic text and ensures proper articulation during recitation.",
+    "qalqalah_letters": [
+      "ق",
+      "ط",
+      "ب",
+      "ج",
+      "د"
+    ],
+    "types_of_qalqalah": [
+      {
+        "type": "Minor Qalqalah",
+        "description": "Occurs when the Qalqalah letter is in the middle of a word and has a sukoon.",
+        "example": "يَجْعَلُونَ (the letter ج)"
+      },
+      {
+        "type": "Medium Qalqalah",
+        "description": "Occurs at the end of a word but not at the end of a verse.",
+        "example": "قَدْ أَفْلَحَ (the letter د)"
+      },
+      {
+        "type": "Strong Qalqalah",
+        "description": "Occurs when the letter is at the end of a verse and has a strong echo due to waqf (pause).",
+        "example": "يَتَعَبَّدْ (with pause on د)"
+      }
+    ],
+    "examples": [
+      "أَقْدَرَ – the ق is pronounced with a bounce",
+      "يَجْعَلُ – slight vibration in ج",
+      "يَقْتُلُ – ط gets a quick echo",
+      "يُبْصِرُونَ – echoing of ب when stopped"
+    ],
+    "rules_for_application": [
+      "Qalqalah only applies when the letter is sakin (has sukoon).",
+      "It is stronger when the Qalqalah letter comes at the end of a word or verse.",
+      "Avoid over-bouncing — it is a light, controlled vibration, not an exaggerated echo."
+    ],
+    "common_mistakes": [
+      "Applying Qalqalah to letters that don’t belong (like ك or س).",
+      "Overdoing the bounce, especially in minor qalqalah cases.",
+      "Skipping Qalqalah completely at the end of words when stopping.",
+      "Confusing Qalqalah with other rules like Qalqalah in Mushaddad letters (not applicable)."
+    ],
+    "conclusion": "Qalqalah is a subtle but powerful Tajweed rule that enhances clarity and beauty in Qur’anic recitation. By mastering the appropriate vibration in the five Qalqalah letters, the reciter preserves both meaning and pronunciation. It's especially important when stopping at the end of an ayah."
+  }
+}
