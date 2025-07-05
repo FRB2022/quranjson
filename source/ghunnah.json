@@ -1,0 +1,38 @@
+{
+  "index": 3,
+  "lesson_name": "Ghunnah",
+  "course": {
+    "definition": "Ghunnah (غنة) is a nasal sound emitted from the nasal passage. It is a continuous sound produced through the nose and is one of the unique sounds in Arabic phonetics.",
+    "importance": "Ghunnah is a vital aspect of Tajweed, especially in rules like Idgham, Ikhfa, and Noon/Meem Mushaddad. It adds beauty and softness to the recitation. Incorrect Ghunnah can distort the meaning and flow of verses.",
+    "types_of_ghunnah": [
+      {
+        "type": "Complete Ghunnah",
+        "description": "Occurs with Noon Mushaddad (نّ) and Meem Mushaddad (مّ) — requires full nasalization for 2 counts.",
+        "examples": [
+          "إِنَّ اللّهَ غَفُورٌ – 'Inna'",
+          "ثُمَّ رُدُّوا – 'Thumma'"
+        ]
+      },
+      {
+        "type": "Incomplete Ghunnah",
+        "description": "Occurs in Ikhfa and Idgham (with Ghunnah) — also pronounced for 2 counts but less pronounced than Mushaddad.",
+        "examples": [
+          "مِن قَبْلِ – Ikhfa",
+          "مَنْ يَعْمَلْ – Idgham with Ghunnah"
+        ]
+      }
+    ],
+    "rules_where_applied": [
+      "Noon Saakin & Tanween rules (Ikhfa, Idgham with Ghunnah)",
+      "Meem Saakin rules (Ikhfa Shafawi, Idgham Shafawi)",
+      "Noon/Mim Mushaddad"
+    ],
+    "common_mistakes": [
+      "Cutting Ghunnah short (only 1 count).",
+      "Making it too long (over 2 counts).",
+      "Using the mouth instead of the nose.",
+      "Not differentiating between full and partial Ghunnah."
+    ],
+    "conclusion": "Ghunnah brings smoothness and softness into recitation. Learning the correct duration and placement of Ghunnah preserves both the Tajweed rules and the beauty of the Quranic tone. It also supports proper application of rules like Ikhfa and Idgham."
+  }
+}
