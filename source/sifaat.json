@@ -1,0 +1,41 @@
+{
+  "index": 2,
+  "lesson_name": "Sifaat al-Huruf",
+  "course": {
+    "definition": "Sifaat al-Huruf (صفات الحروف) refers to the intrinsic and temporary characteristics that describe how Arabic letters are pronounced. These features help distinguish similar letters and give each its unique sound.",
+    "importance": "Understanding Sifaat is crucial in Tajweed because it governs how a letter sounds beyond its articulation point. It helps prevent errors like pronouncing ز (Zay) like ظ (Zha) or making Qalqalah letters flat. Sifaat also enhances fluency, clarity, and rhythm in recitation.",
+    "types_of_sifaat": [
+      {
+        "category": "1. Sifaat with Opposites",
+        "description": "These are paired characteristics where a letter can only possess one of the two in each pair.",
+        "examples": [
+          "Hams (breath) vs Jahr (no breath)",
+          "Shiddah (strength) vs Rakhawah (softness)",
+          "Isti’laa (elevation) vs Istifal (lowering)",
+          "Itbaaq (constriction) vs Infitaah (openness)"
+        ]
+      },
+      {
+        "category": "2. Sifaat without Opposites",
+        "description": "These are unique traits not shared in oppositional pairs and may apply to a group of letters or even one.",
+        "examples": [
+          "Qalqalah – echoing/bouncing sound (ق، ط، ب، ج، د)",
+          "Leen – softness (و, ي when sakin after a fatha)",
+          "Tafashshi – spreading of sound (ش)",
+          "Takreer – repetition or vibration (ر)",
+          "Istitaalah – elongation (ض)"
+        ]
+      }
+    ],
+    "application": {
+      "description": "Sifaat work together with Makharij to shape the correct pronunciation. For instance, the letter ق has Isti’laa (elevation), Qalqalah (bouncing), and Jahr (no breath). Recognizing this helps recite it with proper heaviness, strength, and clarity."
+    },
+    "common_mistakes": [
+      "Neglecting Qalqalah in ق, ب, etc.",
+      "Pronouncing ر without vibration (lacking Takreer).",
+      "Overdoing softness in Leen letters.",
+      "Failing to elevate letters with Isti’laa like ط, ق, ص."
+    ],
+    "conclusion": "Sifaat are essential for giving each letter its unique identity. By mastering Sifaat alongside Makharij, students develop fluency, clarity, and beauty in Qur’anic recitation. It ensures that every sound is preserved as it was revealed to the Prophet ﷺ."
+  }
+}
