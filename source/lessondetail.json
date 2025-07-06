@@ -567,17 +567,536 @@
     ],
     "conclusion": "Meem Sakinah rules regulate how one of the softest letters in the Arabic alphabet blends with others. Understanding these rules enhances rhythm, fluency, and clarity in Quranic recitation. Proper control over Ghunnah and lip closure leads to a melodious and correct style, as passed down through the Tajweed tradition."
   }
-}
-
-
-
-  
-  
-
-
-
-
+},
+  {
+    "index": 13,
+    "lesson_name": "Ikhfa",
+    "course": {
+      "definition": "Ikhfa (إخفاء) means 'to hide'. In Tajweed, it refers to the rule where Noon Saakinah (نْ) or Tanween (ً ٍ ٌ) is followed by one of the 15 specific letters, causing the Noon sound to be pronounced with a light nasal sound, without fully articulating the Noon letter or completely merging it.",
+      "importance": "Ikhfa maintains clarity while softening the transition between letters. It enhances fluency in recitation and prevents harsh or awkward articulation. Mastering Ikhfa ensures balanced nasalization and avoids errors like over-pronouncing or skipping the hidden Noon sound.",
+      "ikhfa_letters": [
+        "ت", "ث", "ج", "د", "ذ", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ف", "ق", "ك"
+      ],
+      "examples": [
+        "مِنْكُمْ → Ikhfa before ك",
+        "عَلِيمٌ خَبِيرٌ → Ikhfa of Tanween before خ",
+        "يَوْمَئِذٍ صَادِقُونَ → Ikhfa before ص"
+      ],
+      "rules": [
+        "Occurs when Noon Saakinah or Tanween is followed by one of 15 Ikhfa letters.",
+        "Pronounced with a nasal sound for two counts.",
+        "The tongue should not touch the roof of the mouth during Ikhfa.",
+        "The degree of Ikhfa varies depending on the letter: closer to Idgham or Izhar based on proximity."
+      ],
+      "common_mistakes": [
+        "Over-pronouncing the Noon sound instead of hiding it.",
+        "Skipping nasalization or making it too short or too long.",
+        "Touching the tongue to the mouth, turning it into Izhar.",
+        "Confusing Ikhfa with Idgham or Izhar due to similar contexts."
+      ],
+      "conclusion": "Ikhfa plays a crucial role in maintaining the natural rhythm and tone of Qur’anic recitation. When applied correctly, it balances concealment and nasalization, ensuring the recitation flows smoothly and adheres to Tajweed principles."
+    }
+  },
+  {
+    "index": 14,
+    "lesson_name": "Idgham",
+    "course": {
+      "definition": "Idgham (إدغام) means 'merging'. In Tajweed, it occurs when a Noon Saakinah or Tanween is followed by one of six specific letters, causing the Noon or Tanween sound to merge into the next letter. This makes the sound smoother and more fluid.",
+      "importance": "Idgham ensures the recitation is smooth and avoids robotic pronunciation. It reflects the eloquence and rhythm of the Qur'an. Learning proper Idgham enhances fluency and preserves meaning.",
+      "types_of_idgham": [
+        {
+          "type": "With Ghunnah (nasalization)",
+          "letters": ["ي", "ن", "م", "و"],
+          "description": "Requires nasalization for two counts."
+        },
+        {
+          "type": "Without Ghunnah",
+          "letters": ["ل", "ر"],
+          "description": "No nasalization; the merging is clean and sharp."
+        }
+      ],
+      "examples": [
+        "مِنْ يَعْمَلْ → Idgham with Ghunnah (ن into ي)",
+        "غَفُورٌ رَحِيمٌ → Idgham without Ghunnah (Tanween into ر)"
+      ],
+      "rules": [
+        "Idgham only occurs if the Noon Saakinah or Tanween is at the end of a word and the next word starts with an Idgham letter.",
+        "Do not apply Idgham if both letters are in the same word (e.g., دُنْيَا is not Idgham)."
+      ],
+      "common_mistakes": [
+        "Applying Ghunnah when not required (e.g., with ل, ر).",
+        "Merging letters when they are not Idgham pairs.",
+        "Losing the clear sound of the merged letter."
+      ],
+      "conclusion": "Idgham adds smoothness to recitation. By mastering both forms—with and without Ghunnah—students can maintain proper Tajweed, reciting with beauty and precision."
+    }
+  },
+  {
+    "index": 15,
+    "lesson_name": "Iqlab",
+    "course": {
+      "definition": "Iqlab (إقلاب) means 'to convert'. In Tajweed, it refers to the rule where Noon Saakinah or Tanween followed by the letter ب (Ba) is converted into a hidden Meem sound with Ghunnah (nasalization).",
+      "importance": "Iqlab facilitates a smoother sound transition between Noon/Tanween and Ba. It maintains pronunciation flow and prevents awkward stops or misarticulation.",
+      "examples": [
+        "أَنْبِيَاء → Noon converted into Meem before ب",
+        "سَمِيعٌ بَصِيرٌ → Tanween converted to Meem before ب"
+      ],
+      "rules": [
+        "Occurs only when Noon Saakinah or Tanween is followed by the letter Ba (ب).",
+        "Convert the Noon sound into a hidden Meem with nasalization for two counts.",
+        "Do not pronounce the original Noon or Tanween distinctly."
+      ],
+      "common_mistakes": [
+        "Pronouncing the Noon clearly instead of converting to Meem.",
+        "Missing the nasal sound.",
+        "Over-emphasizing the Meem, turning it into Idgham."
+      ],
+      "conclusion": "Iqlab is a unique Tajweed rule that simplifies pronunciation and maintains the melody of the Qur’an. Recognizing its pattern ensures accurate and fluent recitation."
+    }
+  },
+  {
+    "index": 16,
+    "lesson_name": "Izhar",
+    "course": {
+      "definition": "Izhar (إظهار) means 'clarity'. It refers to the clear pronunciation of Noon Saakinah or Tanween when followed by one of the six throat letters without nasalization or merging.",
+      "importance": "Izhar prevents confusion between letters and preserves the clarity of Arabic pronunciation. It emphasizes the precise articulation of each sound, enhancing the overall recitation quality.",
+      "izhar_letters": ["ء", "هـ", "ع", "ح", "غ", "خ"],
+      "examples": [
+        "مِنْهُمْ → clear Noon before هـ",
+        "سَمِيعٌ عَلِيمٌ → clear Tanween before ع"
+      ],
+      "rules": [
+        "Occurs when Noon Saakinah or Tanween is followed by any of the six throat letters.",
+        "Pronounce the Noon or Tanween clearly from its original articulation point without nasalization.",
+        "Maintain the natural timing (no shortening)."
+      ],
+      "common_mistakes": [
+        "Adding nasalization where it shouldn't exist.",
+        "Turning Izhar into Ikhfa or Idgham by blurring the pronunciation.",
+        "Over-stressing the throat letter."
+      ],
+      "conclusion": "Izhar teaches clarity and control in Tajweed. Mastering it ensures each sound is pronounced correctly, preserving the integrity of Allah's words."
+    }
+  },
+  {
+    "index": 17,
+    "lesson_name": "Rules of Raa",
+    "course": {
+      "definition": "The letter Raa (ر) in Tajweed can be pronounced either with heaviness (Tafkheem) or lightness (Tarqeeq) depending on its context. These rules determine the proper tone of Raa in recitation.",
+      "importance": "Correct Raa pronunciation preserves the musical flow of the Qur'an and prevents errors in meaning and tone. Misapplying Tafkheem or Tarqeeq changes the emotional weight and pronunciation integrity.",
+      "rules": [
+        "Raa is heavy if it has a Fatha or Dhamma.",
+        "Raa is light if it has a Kasrah.",
+        "If Raa is sakin (without a vowel), its heaviness or lightness depends on the vowel before it.",
+        "Raa becomes heavy in certain cases with sukoon after letters with Dhamma or Fatha, even if unvowelled."
+      ],
+      "examples": [
+        "رَبِّي → light Raa due to Kasrah",
+        "الرَّحِيمِ → heavy Raa due to Fatha",
+        "فَارْجِعُوهُ → light Raa because of preceding Kasrah"
+      ],
+      "common_mistakes": [
+        "Reading Raa heavy in places where it should be light.",
+        "Applying Tarqeeq when the rule requires Tafkheem.",
+        "Not identifying the correct rule due to lack of understanding vowel context."
+      ],
+      "conclusion": "Raa is a sensitive letter in Tajweed. Applying its rules accurately enhances fluency, musicality, and reverence in Qur’anic recitation."
+    }
+  },
+  {
+    "index": 18,
+    "lesson_name": "Rules of Laam",
+    "course": {
+      "definition": "Laam (ل) in Tajweed has special rules especially in the word 'Allah'. Its pronunciation varies between heavy and light depending on the preceding vowel.",
+      "importance": "Knowing how to pronounce Laam correctly maintains the divine tone of verses, particularly when reciting the name of Allah. It also helps avoid misrepresenting the meaning.",
+      "rules": [
+        "Laam in 'Allah' is heavy (Tafkheem) when preceded by Fatha or Dhamma.",
+        "It is light (Tarqeeq) when preceded by Kasrah.",
+        "Laam in other words is always pronounced clearly unless merged in Idgham with Laam or Raa."
+      ],
+      "examples": [
+        "قَالَ اللَّهُ → heavy Laam",
+        "بِسْمِ اللَّهِ → light Laam"
+      ],
+      "common_mistakes": [
+        "Reading 'Allah' with a light Laam when it should be heavy.",
+        "Unnecessarily applying heaviness to other Laam instances.",
+        "Skipping clarity when Laam is part of definite article (ال)."
+      ],
+      "conclusion": "Rules of Laam, especially in 'Allah', preserve the sanctity of the recitation. Mastery of these rules supports eloquence and proper Tajweed."
+    }
+  },
+  {
+    "index": 19,
+    "lesson_name": "Al-Khaishoom",
+    "course": {
+      "definition": "Al-Khaishoom (الخیشوم) refers to the nasal passage. It is the source of the Ghunnah (nasal sound) and plays a vital role in Tajweed when applying rules like Ikhfa, Idgham, and Iqlab.",
+      "importance": "Understanding the function of the nasal passage helps in correctly applying nasalization. It enhances the beauty and balance of the sound and prevents artificial or incorrect Ghunnah.",
+      "application": [
+        "Used in Ikhfa, Idgham with Ghunnah, and Iqlab.",
+        "Noon and Meem Mushaddad also require full nasalization from Al-Khaishoom.",
+        "The Ghunnah sound should resonate from the nose, not the mouth."
+      ],
+      "examples": [
+        "إِنَّ → nasal Ghunnah from Khaishoom",
+        "ثُمَّ → Meem Mushaddad with Ghunnah"
+      ],
+      "common_mistakes": [
+        "Producing Ghunnah from the throat or mouth instead of the nose.",
+        "Reducing the duration of nasalization.",
+        "Blocking the nose, leading to unclear Ghunnah."
+      ],
+      "conclusion": "Al-Khaishoom is essential for proper Ghunnah application. Mastering its use ensures recitation flows with softness, clarity, and emotional depth."
+    }
+  },
+  {
+    "index": 20,
+    "lesson_name": "Tanween Nuances",
+    "course": {
+      "definition": "Tanween refers to the double short vowels (ً ٍ ٌ) placed at the end of nouns. These carry an 'n' sound and follow specific Tajweed rules depending on the next letter.",
+      "importance": "Recognizing Tanween helps in applying rules like Ikhfa, Idgham, Iqlab, and Izhar correctly. Mispronouncing Tanween can lead to incorrect rules being applied and affect meaning.",
+      "types": [
+        "Fathatain (ً)",
+        "Kasratain (ٍ)",
+        "Dammatain (ٌ)"
+      ],
+      "rules": [
+        "Tanween followed by specific letters leads to one of four rules: Izhar, Idgham, Ikhfa, or Iqlab.",
+        "Tanween is treated similarly to Noon Saakinah in Tajweed rules.",
+        "Nasalization (Ghunnah) may be required depending on the rule."
+      ],
+      "examples": [
+        "عَلِيمٌ خَبِيرٌ → Ikhfa",
+        "سَمِيعٌ عَلِيمٌ → Izhar",
+        "غَفُورٌ رَحِيمٌ → Idgham"
+      ],
+      "common_mistakes": [
+        "Ignoring the Tanween rule and pronouncing it like a short vowel.",
+        "Skipping Ghunnah where needed.",
+        "Over-nasalizing in non-Ghunnah rules."
+      ],
+      "conclusion": "Tanween is more than just a grammatical mark; it plays a vital role in Tajweed. Knowing its impact ensures accurate application of major pronunciation rules and protects the integrity of Qur’anic recitation."
+    }
+  },  {
+    "index": 21,
+    "lesson_name": "Contextual Tafkheem",
+    "course": {
+      "definition": "Contextual Tafkheem refers to the heaviness applied to certain Arabic letters based on their position in a word or specific surrounding conditions, rather than simply their identity. While some letters are inherently heavy, such as خ, ص, and ط, others like the letter 'ر' (Raa) can exhibit Tafkheem or Tarqeeq depending on context.",
+      "importance": "Mastery of Contextual Tafkheem allows a reciter to correctly balance the strength or softness of a sound according to Tajweed rules. It avoids the common mistake of making every Raa heavy or every Laam light, especially in words like 'الرحمن' or 'فرعون'. It preserves the integrity of Qur’anic expression and enhances the majesty and beauty of its rhythm.",
+      "examples": [
+        "ر in 'الرحمن' is heavy because it is preceded by Fatha.",
+        "ر in 'فرعون' is light because of the Kasrah before it.",
+        "Lam in 'الله' is heavy if preceded by Dhamma/Fatha but light if preceded by Kasrah."
+      ],
+      "rules": [
+        "Raa is pronounced with Tafkheem when it has a Fatha or Dhamma, or when it has a Sukoon preceded by a Fatha or Dhamma.",
+        "Raa is pronounced with Tarqeeq when it has a Kasrah, or is Sukoon preceded by a Kasrah.",
+        "In some special cases like ‘مرصاد’ or ‘إرصاد’, scholars differ and require careful recitation.",
+        "The word 'Allah' follows contextual Tafkheem based on the preceding vowel."
+      ],
+      "common_mistakes": [
+        "Pronouncing every Raa as heavy regardless of context.",
+        "Incorrect Tafkheem of ‘Allah’ after a Kasrah.",
+        "Lack of balance in switching between heavy and light sounds mid-recitation."
+      ],
+      "conclusion": "Contextual Tafkheem highlights the dynamic and eloquent nature of Tajweed. A precise reciter pays close attention to surrounding letters and vowels, adjusting the sound accordingly to reflect the correct Tajweed pattern and Qur’anic rhythm."
+    }
+  },
+  {
+    "index": 22,
+    "lesson_name": "Stopping Rules (Waqf)",
+    "course": {
+      "definition": "Waqf (وقف) refers to the rules and techniques of pausing while reciting the Qur’an. It includes knowing where to stop, how to stop, and whether a stop is preferred, optional, or prohibited. Waqf enhances comprehension and preserves meaning during recitation.",
+      "importance": "Without correct Waqf, the meaning of a verse can change drastically. For example, pausing at the wrong place may imply a different subject, contradict grammar, or lead to confusion. Waqf also ensures smoother breathing, rhythm, and flow during recitation.",
+      "types_of_waqf": [
+        {
+          "type": "Waqf Taam (تام)",
+          "description": "A complete stop. It occurs when the meaning is complete, and one can stop before continuing.",
+          "example": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+        },
+        {
+          "type": "Waqf Kaafi (كافي)",
+          "description": "A sufficient stop where the sentence ends, but the next is related in meaning.",
+          "example": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ"
+        },
+        {
+          "type": "Waqf Hasan (حسن)",
+          "description": "A good stop, usually at the end of a phrase, even though grammatically it could continue.",
+          "example": "وَفِي السَّمَاءِ رِزْقُكُمْ"
+        },
+        {
+          "type": "Waqf Qabeeh (قبيح)",
+          "description": "An inappropriate or grammatically incorrect stop that affects meaning.",
+          "example": "اللَّهُ لَا إِلَٰهَ — stopping here before 'إِلَّا هُوَ' changes the meaning"
+        }
+      ],
+      "symbols": [
+        "مـ – necessary stop",
+        "لا – do not stop",
+        "ج – permissible stop",
+        "صلى – preferable to continue",
+        "قلى – preferable to stop"
+      ],
+      "common_mistakes": [
+        "Stopping at Qabeeh locations.",
+        "Not understanding stop signs in the Mushaf.",
+        "Interrupting phrases or names of Allah.",
+        "Breathing breaks without regard to Waqf rules."
+      ],
+      "conclusion": "Waqf rules are essential for both meaning and flow. A trained reciter uses Waqf to guide listeners and preserve the eloquence and clarity of Qur’anic expression. Mastery of Waqf transforms recitation from mechanical to reflective and expressive."
+    }
+  },
+  {
+    "index": 23,
+    "lesson_name": "Madd Muttasil",
+    "course": {
+      "definition": "Madd Muttasil (مد متصل) refers to a connected elongation where a Madd letter is followed directly by a Hamzah (ء) in the same word. This causes the elongation to extend up to 4 or 5 counts during recitation.",
+      "importance": "It reflects the required elongation according to the nature of the Arabic phonetics and the structure of the verse. This elongation ensures clarity, emphasis, and beauty in delivery, preserving both rhythm and meaning.",
+      "rule": "When one of the three Madd letters (ا، و، ي) is followed by a Hamzah in the same word, it becomes Madd Muttasil and must be extended 4–5 counts.",
+      "examples": [
+        "جَاءَ – Alif followed by Hamzah in the same word.",
+        "سُوءُ – Waw followed by Hamzah.",
+        "بِمِيعَادِ – Ya followed by Hamzah."
+      ],
+      "comparison": "It differs from Madd Munfasil where the Hamzah appears in the next word. Muttasil is stronger and must always be observed with full elongation.",
+      "common_mistakes": [
+        "Shortening Madd Muttasil to 2 counts like a regular Madd Asli.",
+        "Not recognizing connected Hamzah across scripts.",
+        "Inconsistent timing of elongation between similar words."
+      ],
+      "conclusion": "Madd Muttasil is a critical part of Tajweed that brings emotional and rhythmic emphasis to Qur’anic words. Observing it correctly is a mark of disciplined and reverent recitation."
+    }
+  },
+  {
+    "index": 24,
+    "lesson_name": "Madd Munfasil",
+    "course": {
+      "definition": "Madd Munfasil (مد منفصل) is a type of elongation that occurs when a Madd letter is at the end of one word, and the next word begins with a Hamzah. It is called 'separated elongation' because the two elements are in separate words.",
+      "importance": "It adds fluency and style to recitation while maintaining Tajweed discipline. It helps in distinguishing word boundaries and prepares the ear for transitions during recitation.",
+      "rule": "When Madd (ا، و، ي) comes at the end of a word and the next word begins with a Hamzah (ء), the reciter should elongate the Madd for 4 counts in normal recitation (Hafs).",
+      "examples": [
+        "يَا أَيُّهَا",
+        "فِيهِ أُجُورٌ",
+        "إِنَّا أَنْزَلْنَاهُ"
+      ],
+      "flexibility": "Some Qira’at elongate this Madd to 5 or 6 counts, but Hafs 'an 'Asim uses 4 counts typically. It's often adjusted based on stopping patterns and fluency.",
+      "common_mistakes": [
+        "Skipping the elongation altogether.",
+        "Confusing it with Muttasil due to rapid recitation.",
+        "Inconsistent application in similar phrases."
+      ],
+      "conclusion": "Madd Munfasil balances clarity and elegance in Qur’anic recitation. It reinforces the listener’s focus and rhythm while maintaining the beauty of the verse."
+    }
+  },
+  {
+    "index": 25,
+    "lesson_name": "Madd Lazim",
+    "course": {
+      "definition": "Madd Lazim (مد لازم) is a compulsory elongation that occurs when a Madd letter is followed by a letter with a permanent sukoon, either in words or letters. It must be prolonged for 6 counts and is among the strongest types of Madd.",
+      "importance": "It highlights structural and phonetic emphasis. Madd Lazim reinforces linguistic patterns in the Qur’an and ensures that important words or phrases stand out in both sound and meaning.",
+      "types_of_madd_lazim": [
+        {
+          "type": "Kalimi Muthaqqal (Word, Merged)",
+          "example": "الضَّالِّينَ",
+          "description": "Occurs in one word where a Madd letter is followed by a letter with Shaddah."
+        },
+        {
+          "type": "Kalimi Mukhaffaf (Word, Light)",
+          "example": "ءَآلْـَٰٔنَ",
+          "description": "Occurs in one word followed by a letter with sukoon but no shaddah."
+        },
+        {
+          "type": "Harfi Muthaqqal (Letter, Merged)",
+          "example": "الم",
+          "description": "In abbreviated letters at the beginning of surahs, e.g., the Laam in 'الم'."
+        },
+        {
+          "type": "Harfi Mukhaffaf (Letter, Light)",
+          "example": "ص",
+          "description": "In letter initials where a Madd letter is followed by a sukoon without a merge."
+        }
+      ],
+      "rule": "Must be elongated for 6 counts without exception.",
+      "common_mistakes": [
+        "Shortening it to 4 counts.",
+        "Not recognizing Madd Lazim in abbreviated letters.",
+        "Over-elongating beyond the required limit."
+      ],
+      "conclusion": "Madd Lazim is a powerful Tajweed element. Its correct application signals strength, authority, and clarity in the message of the Qur’an. It demands consistency and strong command over timing."
+    }
+  },
+  {
+    "index": 26,
+    "lesson_name": "Tajweed Integration",
+    "course": {
+      "definition": "Tajweed Integration refers to the practical and synchronized application of multiple Tajweed rules during continuous recitation. Instead of applying rules in isolation, reciters combine Makharij, Sifaat, Madd, Idgham, Ikhfa, and Waqf rules seamlessly throughout a passage.",
+      "importance": "Tajweed Integration ensures fluency, beauty, and correctness. It reflects the maturity of a reciter’s skill, demonstrating their ability to read the Qur’an with reverence and precision. Integration also helps maintain rhythm, meaning, and listener engagement during longer recitations.",
+      "example_application": [
+        "In the verse 'مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ', the reciter applies Ikhfa (for ‘مِنْ شَرِّ’), Qalqalah (if stopping on ‘الْخَنَّاسِ’), and Ghunnah for Mushaddad Noon — all in sequence.",
+        "While reciting Surah Al-Fatiha, the reciter navigates Makharij (e.g. ‘ض’), Waqf (pausing at ‘الْعَالَمِينَ’), and Tafkheem (in ‘صِرَاطَ’) without breaking the rhythm."
+      ],
+      "principles": [
+        "Apply rules consciously but fluidly — they should not break the natural flow.",
+        "Practice with passages, not isolated words.",
+        "Record and review recitation to identify lapses in integration."
+      ],
+      "common_mistakes": [
+        "Overemphasis on one rule while neglecting others.",
+        "Pausing mid-word due to uncertainty of a rule.",
+        "Incorrect transitions between Ghunnah and Idgham or Madd and Qalqalah."
+      ],
+      "conclusion": "Tajweed Integration transforms a technical skillset into a spiritual art form. A masterful reciter weaves rules like threads in a fabric — preserving meaning, beauty, and the divine cadence of the Qur’an."
+    }
+  },
+  {
+    "index": 27,
+    "lesson_name": "Sifaat Without Opposites",
+    "course": {
+      "definition": "These are intrinsic qualities of certain letters in Arabic that do not have directly opposing traits. While many Sifaat come in pairs (e.g. Hams vs Jahr), some stand alone and define unique characteristics essential to proper recitation.",
+      "importance": "Sifaat without opposites distinguish subtle sounds, especially in complex phonetic environments. Ignoring these traits can result in a flat, emotionless delivery or even confusion between letters.",
+      "examples": [
+        {
+          "sifat": "Qalqalah (قلقلة)",
+          "description": "Echoing or bouncing sound in ق، ط، ب، ج، د"
+        },
+        {
+          "sifat": "Leen (لين)",
+          "description": "Softness in letters like و and ي when sakin after a fatha"
+        },
+        {
+          "sifat": "Tafashshi (تفشي)",
+          "description": "Spreading of the sound of ش"
+        },
+        {
+          "sifat": "Takreer (تكرير)",
+          "description": "Rolling or vibration of the tongue in ر"
+        },
+        {
+          "sifat": "Istitaalah (استطالة)",
+          "description": "Prolongation of the sound in ض"
+        }
+      ],
+      "practice_tip": "Focus on identifying where and when these traits appear during recitation, and compare with letters that lack them to train your ears and tongue.",
+      "common_mistakes": [
+        "Flat pronunciation of Shīn without spreading the sound.",
+        "Failure to apply Takreer in ر leading to rigid delivery.",
+        "Not echoing Qalqalah letters when required."
+      ],
+      "conclusion": "Sifaat without opposites offer depth and texture to recitation. Recognizing and applying them ensures not only precision but also the aesthetic elegance that Tajweed aims to convey."
+    }
+  },
+  {
+    "index": 28,
+    "lesson_name": "Common Mistakes in Tajweed",
+    "course": {
+      "definition": "This lesson addresses frequent errors made by learners during Qur’anic recitation. These mistakes can affect pronunciation, change meaning, or disrupt the rhythm and flow intended in the Qur’an.",
+      "importance": "By identifying and correcting common errors, a student prevents miscommunication of the Qur’anic message and preserves the sanctity of its divine origin.",
+      "categories_of_mistakes": [
+        {
+          "type": "Makharij Errors",
+          "example": "Saying ‘seen’ instead of ‘ṣād’, or ‘kaf’ instead of ‘qaf’."
+        },
+        {
+          "type": "Tafkheem/Tarqeeq Confusion",
+          "example": "Pronouncing the light letter ‘lam’ with heaviness in Bismillah."
+        },
+        {
+          "type": "Ghunnah Issues",
+          "example": "Cutting it short or not nasalizing properly in Idgham with Ghunnah."
+        },
+        {
+          "type": "Waqf Problems",
+          "example": "Stopping at a Qabeeh location, altering the verse’s meaning."
+        },
+        {
+          "type": "Inconsistent Madd",
+          "example": "Sometimes elongating Madd for 4 counts, other times for 2."
+        }
+      ],
+      "remedies": [
+        "Regular listening to qualified Qaris.",
+        "Using a mirror to monitor tongue/lip positions.",
+        "Recording personal recitation for self-review.",
+        "Getting feedback from teachers or peer groups."
+      ],
+      "conclusion": "Tajweed mastery requires constant correction and awareness. Identifying your mistakes early builds confidence and ensures your recitation remains both correct and beautiful."
+    }
+  },
+  {
+    "index": 29,
+    "lesson_name": "Rhythm in Tarteel",
+    "course": {
+      "definition": "Tarteel (ترتيل) refers to the slow, measured, and rhythmic recitation of the Qur’an. It is a recitation style that reflects precision, deliberation, and emotional engagement, aligning with the Qur’anic command: 'ورتل القرآن ترتيلا' (Surah Al-Muzzammil: 4).",
+      "importance": "Rhythm in Tarteel aids memorization, enhances listener experience, and brings a deeper connection to the words. It respects the natural pauses, stresses, and melody of Arabic, turning recitation into a meditative and impactful practice.",
+      "elements": [
+        "Consistent pacing — not too fast, not too slow.",
+        "Natural breath control — aligned with Waqf points.",
+        "Melodic tone — without musical exaggeration.",
+        "Balanced emphasis on key letters and rules."
+      ],
+      "practice_methods": [
+        "Recite with a metronome or heartbeat-like beat for pacing.",
+        "Repeat short surahs focusing only on rhythm.",
+        "Follow along with professional Qaris known for Tarteel, like Al-Husary or Abdul Basit."
+      ],
+      "common_mistakes": [
+        "Rushing through verses without applying Tajweed rules.",
+        "Artificial sing-song tone not based on Arabic rhythm.",
+        "Pausing mid-word to breathe, disrupting flow."
+      ],
+      "conclusion": "Tarteel is not merely a recitation style — it is the soul of Tajweed. When rhythm is respected, the Qur’an speaks to the heart as well as the mind. Practicing Tarteel nurtures humility, presence, and reverence."
+    }
+  },
+  {
+    "index": 30,
+    "lesson_name": "Similar Sounding Letters",
+    "course": {
+      "definition": "Many Arabic letters sound similar to non-native speakers, especially those unfamiliar with proper Makharij. This lesson focuses on distinguishing such letter pairs by refining articulation and listening skills.",
+      "importance": "Mispronouncing a letter like س (seen) as ص (ṣād) or ت (taa) as ط (ṭaa) can change the meaning of a verse. Clarity between similar letters preserves the accuracy of the message and the integrity of worship.",
+      "commonly_confused_pairs": [
+        {
+          "pair": "س and ص",
+          "difference": "ص has a heavy, elevated sound (Isti’la), while س is light."
+        },
+        {
+          "pair": "ت and ط",
+          "difference": "ط is heavy and comes from a deeper part of the tongue; ت is lighter."
+        },
+        {
+          "pair": "ز and ظ",
+          "difference": "ظ has Isti’la and thick vibration; ز is softer and from near the teeth."
+        },
+        {
+          "pair": "د and ض",
+          "difference": "ض is pronounced from the side of the tongue and has Istitaalah; د is a soft plosive."
+        },
+        {
+          "pair": "ق and ك",
+          "difference": "ق is deeper and heavier; ك is from the middle of the tongue."
+        }
+      ],
+      "training_tips": [
+        "Practice each letter in isolation and then in short words.",
+        "Use minimal pairs to contrast sounds (e.g., 'سبر' vs 'صبر').",
+        "Record your recitation and compare with expert Qaris."
+      ],
+      "conclusion": "Distinguishing similar sounding letters is foundational in Tajweed. Precision in these areas strengthens not only your pronunciation but also your understanding and respect for the divine language of the Qur’an."
+    }
+  }
 ]
+
+
+
+
+
+
+  
+  
+
+
+
+
+
 
 
 
