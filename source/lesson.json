@@ -1,470 +1,470 @@
 [
 {
   "lesson_number": 1,
-  "lesson_name": "Introduction and Arabic Alphabet",
-  "category": "Makharij",
+  "lesson_name": "Introduction to Tajweed",
+  "category": "Makharij Al-Huruf",
   "questions": [
     {
-      "question": "Which two Arabic letters share the same articulation point but differ in characteristics such as vibration and pressure?",
+      "question": "What is the literal meaning of the word 'Tajweed'?",
       "options": {
-        "A": "خ and غ",
-        "B": "ت and ط",
-        "C": "ص and س",
-        "D": "ذ and ظ"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question": "What distinguishes the articulation point of the letter 'ق' from that of 'ك'?",
-      "options": {
-        "A": "ق is pronounced from the middle of the tongue, ك from the tip",
-        "B": "ق is from the deepest part of the tongue touching the soft palate, while ك is slightly forward",
-        "C": "ق involves the lips, ك involves the teeth",
-        "D": "There is no distinction in their articulation points"
+        "A": "To read fluently",
+        "B": "To beautify or improve",
+        "C": "To memorize accurately",
+        "D": "To recite softly"
       },
       "correct_answer": "B"
     },
     {
-      "question": "What is the role of 'makhraj' in preserving the correct meaning of the Quranic words?",
+      "question": "Why is Tajweed important in the recitation of the Quran?",
       "options": {
-        "A": "It makes the pronunciation faster",
-        "B": "It improves the melody of recitation",
-        "C": "It ensures correct pronunciation which prevents change in meaning",
-        "D": "It beautifies the voice"
+        "A": "To speed up the recitation",
+        "B": "To preserve the rhythm of poetry",
+        "C": "To protect the meaning and pronunciation of the words",
+        "D": "To memorize faster"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Which Arabic letters have articulation points located in the lips (شفاه)?",
+      "question": "What is the result of not applying Tajweed rules properly?",
       "options": {
-        "A": "م، ب، و، ف",
-        "B": "ت، د، ط",
-        "C": "ن، ر، ل",
-        "D": "ج، ش، ي"
+        "A": "It makes the recitation more beautiful",
+        "B": "It enhances Tajweed skills",
+        "C": "It may change the meaning of words",
+        "D": "It helps in memorization"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is *not* a purpose of learning Tajweed?",
+      "options": {
+        "A": "To recite the Quran with correct pronunciation",
+        "B": "To beautify the voice",
+        "C": "To increase one's memory",
+        "D": "To follow the Sunnah of Prophet Muhammad ﷺ"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which Quranic verse emphasizes the importance of proper recitation?",
+      "options": {
+        "A": "Surah Baqarah: 2",
+        "B": "Surah Muzammil: 4",
+        "C": "Surah Fatiha: 1",
+        "D": "Surah Kahf: 9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "According to the lesson, what does 'Tarteel' mean in the Quran?",
+      "options": {
+        "A": "Fast recitation",
+        "B": "Loud recitation",
+        "C": "Slow, measured recitation",
+        "D": "Silent recitation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Tajweed helps in protecting the ______ of the Quran.",
+      "options": {
+        "A": "translation",
+        "B": "pages",
+        "C": "meaning and pronunciation",
+        "D": "punctuation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is one of the spiritual benefits of reciting with Tajweed?",
+      "options": {
+        "A": "It cures illness",
+        "B": "It increases wealth",
+        "C": "It brings inner peace and khushu’",
+        "D": "It makes voice louder"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the Prophet ﷺ say about those who recite the Quran fluently?",
+      "options": {
+        "A": "They are among the people of Jannah",
+        "B": "They will be wealthy",
+        "C": "They will never get sick",
+        "D": "They will become scholars"
       },
       "correct_answer": "A"
     },
     {
-      "question": "Which of the following is **not** considered a correct description of a makhraj?",
+      "question": "What is the ruling of learning Tajweed according to scholars?",
       "options": {
-        "A": "A precise location where the sound of a letter originates",
-        "B": "A movement made by the lips or tongue only",
-        "C": "A point in the throat or mouth where letters are articulated",
-        "D": "The air flow direction required for each Arabic letter"
+        "A": "Haram",
+        "B": "Mustahabb (recommended)",
+        "C": "Makruh",
+        "D": "Fard 'Ayn (personally obligatory)"
       },
       "correct_answer": "D"
     },
     {
-      "question": "Why is understanding the Arabic alphabet critical in mastering Tajweed?",
+      "question": "What is the main purpose of Tajweed science?",
       "options": {
-        "A": "It helps in writing calligraphy",
-        "B": "Each letter has a unique sound and articulation that affects Quran recitation",
-        "C": "It helps in understanding Arabic grammar",
-        "D": "It is only required for beginners"
+        "A": "To decorate the Mushaf",
+        "B": "To make the Quran rhyme",
+        "C": "To pronounce letters from their correct articulation points",
+        "D": "To speed up reading"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is *most accurate* about Tajweed as described in the lesson?",
+      "options": {
+        "A": "It is an optional part of learning Quran",
+        "B": "It is only required for scholars",
+        "C": "It is a science to preserve the correct recitation",
+        "D": "It is used only during Taraweeh"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "The term 'Ghunnah' is briefly mentioned in Tajweed. What does it refer to?",
+      "options": {
+        "A": "A long pause",
+        "B": "Nasal sound",
+        "C": "Echoing sound",
+        "D": "Silent letter"
       },
       "correct_answer": "B"
     },
     {
-      "question": "How many articulation points (makharij) are identified by scholars like Imam Khalil ibn Ahmad?",
+      "question": "According to the lesson, who was the first teacher of Tajweed?",
       "options": {
-        "A": "10",
-        "B": "14",
-        "C": "17",
-        "D": "22"
+        "A": "Sahaba",
+        "B": "Imam Shatibi",
+        "C": "Prophet Muhammad ﷺ",
+        "D": "Angel Jibrael (AS)"
       },
-      "correct_answer": "C"
+      "correct_answer": "D"
     },
     {
-      "question": "Which of the following best describes the difference between letters 'س' and 'ص' in terms of articulation?",
+      "question": "What is the status of one who recites with difficulty but still tries?",
       "options": {
-        "A": "They share the same makhraj but differ in heaviness (tafkheem)",
-        "B": "They are pronounced from different tongue positions",
-        "C": "س is a throat letter while ص is a tongue letter",
-        "D": "ص requires vibration while س does not"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question": "Which of the following groups includes only throat letters (حروف الحلق)?",
-      "options": {
-        "A": "خ، غ، ف، ق",
-        "B": "ع، ح، هـ، خ، غ، ء",
-        "C": "م، ن، ب، ف",
-        "D": "س، ش، ص، ز"
+        "A": "They are not rewarded",
+        "B": "They get double reward",
+        "C": "They should not recite",
+        "D": "They must wait to master it first"
       },
       "correct_answer": "B"
-    },
-    {
-      "question": "What does the term 'Jahr' refer to in the context of Tajweed and Arabic phonetics?",
-      "options": {
-        "A": "A rule of elongation",
-        "B": "A rule about nasalization",
-        "C": "The blocking of breath during pronunciation",
-        "D": "The absence of vibration during articulation"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "What happens if the articulation point of a letter is not followed properly during recitation?",
-      "options": {
-        "A": "It doesn’t affect the meaning",
-        "B": "It may result in a completely different letter and meaning",
-        "C": "It improves the fluency",
-        "D": "It adds melody to the recitation"
-      },
-      "correct_answer": "B"
-    },
-    {
-      "question": "Which Arabic letter is pronounced from the empty space of the mouth (الجوف)?",
-      "options": {
-        "A": "أ",
-        "B": "م",
-        "C": "ن",
-        "D": "ل"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question": "Why are the letters 'و', 'ا', and 'ي' called **letters of madd**?",
-      "options": {
-        "A": "They occur at the end of each verse",
-        "B": "They do not have articulation points",
-        "C": "They are used to lengthen the sound when preceded by a suitable harakah",
-        "D": "They are always silent"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which characteristic defines the difference between the Arabic letters 'د' and 'ط'?",
-      "options": {
-        "A": "Place of articulation",
-        "B": "Vibration only",
-        "C": "Strength and heaviness (tafkheem vs tarqeeq)",
-        "D": "They are identical in pronunciation"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which of the following best describes the challenge in pronouncing the Arabic alphabet for non-native speakers?",
-      "options": {
-        "A": "Lack of vocabulary",
-        "B": "Arabic letters all sound the same",
-        "C": "Some Arabic letters do not exist in other languages and require new articulation habits",
-        "D": "It’s mostly a matter of reading speed"
-      },
-      "correct_answer": "C"
     }
   ]
 },
   {
   "lesson_number": 2,
-  "lesson_name": "Full Mouth vs Thin Letters",
-  "category": "Makharij",
+  "lesson_name": "Marakabat",
+  "category": "Makharij Al-Huruf",
   "questions": [
     {
-      "question": "Which of the following letters is always pronounced with a full mouth, regardless of position or surrounding vowels?",
+      "question": "What does the term 'Markkub' refer to in the lesson on Makharij?",
       "options": {
-        "A": "ز",
-        "B": "ق",
-        "C": "ب",
-        "D": "ن"
+        "A": "A type of vowel sound",
+        "B": "A letter formed from one makhraj",
+        "C": "A letter formed from two different makharij",
+        "D": "A nasalized sound"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which type of letters are known as 'Marakabat'?",
+      "options": {
+        "A": "Letters having only one point of articulation",
+        "B": "Letters with multiple sounds",
+        "C": "Letters with double articulation points",
+        "D": "Letters with heavy pronunciation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How many main types of letters are discussed in this lesson?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is considered a 'simple' letter in terms of articulation?",
+      "options": {
+        "A": "Laam",
+        "B": "Kha",
+        "C": "Meem",
+        "D": "Jeem"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What distinguishes 'Markkub' letters from 'Simple' letters?",
+      "options": {
+        "A": "Their place in the Arabic alphabet",
+        "B": "The number of strokes required",
+        "C": "The combination of two makharij",
+        "D": "The amount of vibration in sound"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following letters would be an example of a Marakabat letter?",
+      "options": {
+        "A": "Ba",
+        "B": "Qaf",
+        "C": "Jeem",
+        "D": "Alif"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the defining trait of a Markkub letter according to the lesson?",
+      "options": {
+        "A": "Nasalization",
+        "B": "Prolongation",
+        "C": "It is formed from multiple points of articulation",
+        "D": "Heavy pronunciation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is it important to know whether a letter is simple or compound?",
+      "options": {
+        "A": "For sentence construction",
+        "B": "To apply grammatical rules",
+        "C": "For correct articulation in recitation",
+        "D": "To differentiate singular and plural"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which part of the mouth is usually involved in producing compound letters?",
+      "options": {
+        "A": "Only the tongue",
+        "B": "Multiple parts including tongue and throat",
+        "C": "Nose only",
+        "D": "Teeth only"
       },
       "correct_answer": "B"
     },
     {
-      "question": "What is the correct Tajweed term for 'Full Mouth' pronunciation?",
+      "question": "What kind of sound is produced when a letter comes from more than one makhraj?",
       "options": {
-        "A": "Tafkheem",
-        "B": "Tarqeeq",
-        "C": "Idghaam",
-        "D": "Ikhfa"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question": "Which of the following is *not* among the full mouth (Mufakham) letters?",
-      "options": {
-        "A": "ط",
-        "B": "خ",
-        "C": "ذ",
-        "D": "غ"
+        "A": "Sharp",
+        "B": "Nasal",
+        "C": "Complex",
+        "D": "Silent"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Which of these letters changes its pronunciation based on vowel sounds (i.e., it can be both full and thin)?",
+      "question": "Which rule is essential for identifying Markkub letters?",
       "options": {
-        "A": "ر",
-        "B": "ص",
-        "C": "ض",
-        "D": "ظ"
+        "A": "Understanding the characteristics (Sifaat)",
+        "B": "Knowing grammatical structure",
+        "C": "Recognizing the letter's color in the Mushaf",
+        "D": "Memorizing the Harakaat"
       },
       "correct_answer": "A"
     },
     {
-      "question": "The letter 'ل' in the word 'اللَّه' is pronounced how?",
+      "question": "What helps in distinguishing between Marakabat and simple letters during recitation?",
       "options": {
-        "A": "Always thin",
-        "B": "Always thick",
-        "C": "Thick only when preceded by Fathah or Dammah",
-        "D": "Thin only when preceded by Kasrah"
+        "A": "Qalqalah",
+        "B": "Ghunna",
+        "C": "Sifaat and Makharij knowledge",
+        "D": "Iqlaab rules"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Which of these letters is always pronounced with a thin sound regardless of the surrounding vowels?",
+      "question": "What is the main benefit of learning about Markkub and Marakabat letters?",
       "options": {
-        "A": "ب",
-        "B": "خ",
-        "C": "ق",
-        "D": "ض"
+        "A": "Enhancing Arabic grammar",
+        "B": "Improving handwriting",
+        "C": "Achieving correct pronunciation in Tajweed",
+        "D": "Memorizing Quranic verses"
       },
-      "correct_answer": "A"
+      "correct_answer": "C"
     },
     {
-      "question": "What is the rule for the letter 'ر' when it has a sukoon and is preceded by a Kasrah?",
+      "question": "Which tool is most useful in identifying how a compound letter is formed?",
       "options": {
-        "A": "Full mouth",
-        "B": "Thin mouth",
-        "C": "Depends on the next letter",
-        "D": "Depends on the Madd letter"
+        "A": "Tafsir",
+        "B": "Sifaat table",
+        "C": "Grammar charts",
+        "D": "Harakaat signs"
       },
       "correct_answer": "B"
     },
     {
-      "question": "Which of the following is the correct classification of the letter 'ص'?",
+      "question": "What does the lesson conclude about the nature of Markkub letters?",
       "options": {
-        "A": "Always thin",
-        "B": "Sometimes thick",
-        "C": "Always thick",
-        "D": "Neither"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "In Tajweed, how many letters are considered always Mufakham (full mouth)?",
-      "options": {
-        "A": "3",
-        "B": "5",
-        "C": "7",
-        "D": "10"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "When does the letter 'ر' become thick even if it has a sukoon?",
-      "options": {
-        "A": "When preceded by a Dammah or Fathah",
-        "B": "When followed by a Kasrah",
-        "C": "When it ends a word",
-        "D": "When joined to a Shaddah"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question": "Which letter is *not* among the seven letters of Tafkheem?",
-      "options": {
-        "A": "ق",
-        "B": "غ",
-        "C": "ع",
-        "D": "ط"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "What happens to the letter 'ر' in the word 'فِرْقٍ'?",
-      "options": {
-        "A": "Pronounced with Tafkheem",
-        "B": "Pronounced with Tarqeeq",
-        "C": "Silent",
-        "D": "Merged with Qaf"
+        "A": "They are easy to pronounce for all readers",
+        "B": "They require special care and precision due to multiple articulation points",
+        "C": "They are silent in Tajweed",
+        "D": "They are rarely used in the Quran"
       },
       "correct_answer": "B"
-    },
-    {
-      "question": "Which of the following statements is true regarding full mouth letters?",
-      "options": {
-        "A": "They always carry a Dammah",
-        "B": "They are based on grammatical usage",
-        "C": "They are fixed and do not change with vowels",
-        "D": "They are pronounced through the nose"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "The thickness of 'ر' in 'كُبَّارًا' is due to:",
-      "options": {
-        "A": "Shaddah",
-        "B": "Sukoon",
-        "C": "Fathah before it",
-        "D": "Kasrah before it"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which verse would most likely contain both a Tafkheem and Tarqeeq letter?",
-      "options": {
-        "A": "قَدْ أَفْلَحَ",
-        "B": "إِيَّاكَ نَعْبُدُ",
-        "C": "الْحَمْدُ لِلَّهِ",
-        "D": "فِي قُلُوبِهِمْ"
-      },
-      "correct_answer": "D"
     }
   ]
 },
   {
   "lesson_number": 3,
-  "lesson_name": "Throat Letters (ح, خ, ع, غ, هـ)",
-  "category": "Makharij al-Huruf",
+  "lesson_name": "Explanation of Zabar (Fatha)",
+  "category": "Qawaid",
   "questions": [
     {
-      "question": "Which of the following letters is articulated from the lowest part of the throat (Adnal-Halq)?",
+      "question": "What is the sound produced when a letter carries Zabar?",
       "options": {
-        "A": "ع",
-        "B": "غ",
-        "C": "ه",
-        "D": "خ"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "The letters خ and غ are articulated from which part of the throat?",
-      "options": {
-        "A": "Middle part of the throat (Wasat al-Halq)",
-        "B": "Top part of the throat (Aqsal Halq)",
-        "C": "Lowest part of the throat (Adnal-Halq)",
-        "D": "Lips"
+        "A": "Long 'ee'",
+        "B": "Short 'a'",
+        "C": "Silent pause",
+        "D": "Long 'oo'"
       },
       "correct_answer": "B"
     },
     {
-      "question": "Which of the following letter pairs share the same Makhraj but differ in characteristics?",
+      "question": "How is the Zabar represented in Arabic script?",
       "options": {
-        "A": "ح and خ",
-        "B": "ع and غ",
-        "C": "خ and غ",
-        "D": "هـ and ع"
+        "A": "A small loop below the letter",
+        "B": "A small slanted stroke above the letter",
+        "C": "A dot on top of the letter",
+        "D": "A double line beneath the letter"
       },
-      "correct_answer": "C"
+      "correct_answer": "B"
     },
     {
-      "question": "What is the common articulation point for ح and ع?",
+      "question": "Which letter's sound is produced by combining 'Alif' with Zabar in the given lesson?",
       "options": {
-        "A": "Middle of the throat (Wasat al-Halq)",
-        "B": "Lips",
-        "C": "Chest",
-        "D": "Nose"
+        "A": "Aa",
+        "B": "Ee",
+        "C": "Oo",
+        "D": "Uu"
       },
       "correct_answer": "A"
     },
     {
-      "question": "Which of the following letters is whispered (Hams) and originates from the top of the throat?",
+      "question": "How is the letter 'Baa' pronounced when it carries a Zabar?",
       "options": {
-        "A": "غ",
-        "B": "خ",
-        "C": "هـ",
-        "D": "ع"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "The articulation point for ع and ح is located where in the throat?",
-      "options": {
-        "A": "Top of the throat",
-        "B": "Middle of the throat",
-        "C": "Bottom of the throat",
-        "D": "Nasal cavity"
-      },
-      "correct_answer": "B"
-    },
-    {
-      "question": "Which throat letter is characterized by Qalqalah when in a state of sukoon?",
-      "options": {
-        "A": "خ",
-        "B": "غ",
-        "C": "ع",
-        "D": "None of them"
+        "A": "Baa",
+        "B": "Boo",
+        "C": "Bee",
+        "D": "Ba"
       },
       "correct_answer": "D"
     },
     {
-      "question": "What makes خ and غ more difficult in pronunciation compared to ح and ع?",
+      "question": "In the lesson, what is emphasized regarding the duration of Zabar sound?",
       "options": {
-        "A": "They are articulated through the nose",
-        "B": "They are heavy letters with roughness (Tafkheem)",
-        "C": "They are soft and silent",
-        "D": "They are always whispered"
+        "A": "It should be held for 3 seconds",
+        "B": "It is prolonged like a Madd",
+        "C": "It is pronounced quickly and shortly",
+        "D": "It is silent"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which mistake is common while reading letters with Zabar, as explained in the lesson?",
+      "options": {
+        "A": "Turning Zabar into Zer",
+        "B": "Prolonging Zabar like a Madd",
+        "C": "Skipping the letter",
+        "D": "Adding a Tanween"
       },
       "correct_answer": "B"
     },
     {
-      "question": "In Tajweed, the throat letters are referred to collectively as:",
+      "question": "Which example is used in the lesson to demonstrate the correct sound of 'Jeem Zabar Ja'?",
       "options": {
-        "A": "Huruf Al-Tafkheem",
-        "B": "Huruf Al-Halqiyyah",
-        "C": "Huruf Al-Qalqalah",
-        "D": "Huruf Al-Madd"
+        "A": "Jee",
+        "B": "Jo",
+        "C": "Ja",
+        "D": "Ju"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What should be avoided when pronouncing letters with Zabar?",
+      "options": {
+        "A": "Nasal sound",
+        "B": "Long stretching",
+        "C": "Skipping the Harakah",
+        "D": "Emphasis"
       },
       "correct_answer": "B"
     },
     {
-      "question": "Which of the following is NOT considered a Halqi (throat) letter?",
+      "question": "Which word group is used for practical Zabar practice in the lesson?",
       "options": {
-        "A": "ع",
-        "B": "ح",
-        "C": "ق",
-        "D": "هـ"
+        "A": "Three-letter words with Madd",
+        "B": "Single letters with Harakah",
+        "C": "Compound words",
+        "D": "Words from Surah Fatiha"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the position of Zabar on a letter?",
+      "options": {
+        "A": "Below the letter",
+        "B": "Above the letter",
+        "C": "At the end of the word",
+        "D": "Next to the vowel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "In the Tajweed rules, Zabar corresponds to which type of Harakah?",
+      "options": {
+        "A": "Short Harakah",
+        "B": "Long Harakah",
+        "C": "Sukoon",
+        "D": "Tanween"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "According to the lesson, how is clarity ensured in Zabar pronunciation?",
+      "options": {
+        "A": "By reciting quickly",
+        "B": "By placing a Sukoon",
+        "C": "By keeping the sound short and sharp",
+        "D": "By repeating the letter"
       },
       "correct_answer": "C"
     },
     {
-      "question": "What is the Tajweed rule when a Halqi letter follows a Noon Saakinah with no Idghaam, Ikhfa, or Iqlab?",
+      "question": "Which of the following is NOT a correct example of Zabar usage mentioned in the lesson?",
       "options": {
-        "A": "Ikhfa",
-        "B": "Idghaam",
-        "C": "Izhar",
-        "D": "Iqlab"
+        "A": "Alif Zabar Aa",
+        "B": "Baa Zabar Ba",
+        "C": "Meem Zabar Maa",
+        "D": "Seen Zabar Sa"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Which of the following Halqi letters is considered to have no echo or bounce sound when stopped upon?",
+      "question": "Why is Zabar considered essential in Qurani Qaida practice?",
       "options": {
-        "A": "غ",
-        "B": "خ",
-        "C": "ع",
-        "D": "All of them"
+        "A": "It teaches long vowels",
+        "B": "It builds base for advanced Sifat",
+        "C": "It helps understand Madd rules",
+        "D": "It establishes foundational sound recognition"
       },
       "correct_answer": "D"
     },
     {
-      "question": "What is the main articulation difference between غ and ع?",
+      "question": "Which practice advice is given in the lesson for mastering Zabar pronunciation?",
       "options": {
-        "A": "Ghunnah is applied on غ only",
-        "B": "ع is from the bottom throat, غ is from the top",
-        "C": "غ has Tafkheem, ع is lighter",
-        "D": "ع has Qalqalah, غ does not"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which of the following is a Halqi letter with strong pressure (Shiddah)?",
-      "options": {
-        "A": "ح",
-        "B": "خ",
-        "C": "غ",
-        "D": "None of them"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "What happens when a throat letter follows a Madd letter in the Quran?",
-      "options": {
-        "A": "It creates a Qalqalah",
-        "B": "It makes the Madd letter shorter",
-        "C": "It often results in natural elongation (Madd Tabee’i)",
-        "D": "It is ignored in pronunciation"
+        "A": "Start with full verses",
+        "B": "Memorize full Surahs",
+        "C": "Repeat basic letter-Harakah combinations",
+        "D": "Skip short sounds"
       },
       "correct_answer": "C"
     }
@@ -472,470 +472,470 @@
 },
   {
   "lesson_number": 4,
-  "lesson_name": "Tongue Letters: Noon, Lam, Ra",
-  "category": "Makharij",
+  "lesson_name": "Explanation of Zer",
+  "category": "Qawaid",
   "questions": [
     {
-      "question": "From which specific part of the tongue is the letter 'Noon' articulated?",
+      "question": "In Tajweed, what is the symbol used to represent the 'Zer' sound below a letter?",
       "options": {
-        "A": "Tip of the tongue touching the gums of upper front teeth",
-        "B": "Middle of the tongue touching the roof of the mouth",
-        "C": "Side of the tongue touching the molars",
-        "D": "Back of the tongue against the soft palate"
+        "A": "A small vertical line above the letter",
+        "B": "A small diagonal line below the letter",
+        "C": "A round circle above the letter",
+        "D": "A squiggly line below the letter"
       },
-      "correct_answer": "A"
+      "answer": "B"
     },
     {
-      "question": "What differentiates the articulation of 'Lam' from that of 'Noon'?",
+      "question": "What sound does the 'Zer' typically produce when placed below a letter?",
       "options": {
-        "A": "Lam uses both sides of the tongue while Noon uses only the tip",
-        "B": "Lam is articulated from the throat while Noon is from the lips",
-        "C": "Lam is a full-mouth letter and Noon is thin",
-        "D": "Noon is pronounced with Ghunnah while Lam is not"
+        "A": "A ‘u’ sound as in 'put'",
+        "B": "An ‘a’ sound as in 'cat'",
+        "C": "An ‘i’ sound as in 'sit'",
+        "D": "An ‘e’ sound as in 'bed'"
       },
-      "correct_answer": "A"
+      "answer": "C"
     },
     {
-      "question": "Which of the following letters is articulated from the tip of the tongue and requires precision to avoid merging with similar letters?",
+      "question": "When combining 'Zer' with the letter 'Baa', what is the correct pronunciation?",
       "options": {
-        "A": "Ra",
-        "B": "Noon",
-        "C": "Lam",
-        "D": "All of the above"
+        "A": "Baa",
+        "B": "Boo",
+        "C": "Bee",
+        "D": "Bi"
       },
-      "correct_answer": "D"
+      "answer": "D"
     },
     {
-      "question": "In which situation is the articulation of 'Ra' subject to Tafkheem (heaviness)?",
+      "question": "In which direction is the 'Zer' mark placed relative to the letter?",
       "options": {
-        "A": "When preceded by a Kasrah",
-        "B": "When it carries a Sukoon and is preceded by a Dhammah or Fatha",
-        "C": "Always in the beginning of a word",
-        "D": "When it is in a silent position"
+        "A": "Above",
+        "B": "Beside",
+        "C": "Under",
+        "D": "Overlapping"
       },
-      "correct_answer": "B"
+      "answer": "C"
     },
     {
-      "question": "Which articulation error is common with 'Ra' when learners pronounce it with too much vibration?",
+      "question": "What is the Arabic name for the symbol 'Zer'?",
       "options": {
-        "A": "Substitution with 'Laam'",
-        "B": "Echoing like Qalqalah",
-        "C": "Double Ra sound (Takreer)",
-        "D": "Sounding like 'Noon'"
+        "A": "Zabar",
+        "B": "Pesh",
+        "C": "Kasrah",
+        "D": "Sukoon"
       },
-      "correct_answer": "C"
+      "answer": "C"
     },
     {
-      "question": "What is the primary articulation point of the letter 'Ra'?",
+      "question": "Which group of letters was taught in Lesson 4 along with Zer?",
       "options": {
-        "A": "Middle of the tongue",
-        "B": "Sides of the tongue",
-        "C": "Tip of the tongue touching the gums of the upper front teeth",
-        "D": "The nasal passage"
+        "A": "Alif, Laam, Meem",
+        "B": "Bay, Tay, Thay",
+        "C": "Jeem, Haa, Khaa",
+        "D": "Seen, Sheen, Saad"
       },
-      "correct_answer": "C"
+      "answer": "B"
     },
     {
-      "question": "How does Ghunnah influence the articulation of Noon when it is followed by certain letters?",
+      "question": "What should be the sound of the letter 'Tay' with a Zer?",
       "options": {
-        "A": "It makes Noon silent",
-        "B": "It causes Noon to be replaced by Lam",
-        "C": "It causes nasalization",
-        "D": "It changes the Makhraj to the throat"
+        "A": "Ta",
+        "B": "Tu",
+        "C": "Ti",
+        "D": "Te"
       },
-      "correct_answer": "C"
+      "answer": "C"
     },
     {
-      "question": "When reciting Noon Saakinah with Iqlaab, what happens to the sound and articulation?",
+      "question": "Which of these is NOT a correct example of Zer pronunciation from the lesson?",
       "options": {
-        "A": "It is replaced with a full-mouth sound",
-        "B": "It becomes a Lam sound",
-        "C": "It merges into Meem with Ghunnah",
-        "D": "It is pronounced with full vibration"
+        "A": "Bi",
+        "B": "Ti",
+        "C": "Thoo",
+        "D": "Thi"
       },
-      "correct_answer": "C"
+      "answer": "C"
     },
     {
-      "question": "Which of these letters is articulated closest to the teeth but not from them directly?",
+      "question": "Why is it important to correctly pronounce the Zer in Tajweed?",
       "options": {
-        "A": "Ra",
-        "B": "Noon",
-        "C": "Lam",
-        "D": "Saad"
+        "A": "To increase the speed of recitation",
+        "B": "To avoid changing the meaning of words",
+        "C": "To reduce voice stress",
+        "D": "To match poetic rhythm"
       },
-      "correct_answer": "C"
+      "answer": "B"
     },
     {
-      "question": "Which Makhraj zone do Noon, Lam, and Ra all belong to?",
+      "question": "In which basic Qaida lesson do students typically learn 'Zer'?",
       "options": {
-        "A": "Al-Jawf",
-        "B": "Ash-Shafataan",
-        "C": "Al-Lisaan (Tongue)",
-        "D": "Al-Halq (Throat)"
+        "A": "Lesson 1",
+        "B": "Lesson 2",
+        "C": "Lesson 3",
+        "D": "Lesson 4"
       },
-      "correct_answer": "C"
+      "answer": "D"
     },
     {
-      "question": "Which rule applies when Noon Saakinah is followed by the letter 'Ra'?",
+      "question": "Which term best describes the short vowel sound created by Zer?",
       "options": {
-        "A": "Idghaam without Ghunnah",
-        "B": "Ikhfaa with Ghunnah",
-        "C": "Idghaam with Ghunnah",
-        "D": "Izhar"
+        "A": "Fatha",
+        "B": "Dammah",
+        "C": "Kasrah",
+        "D": "Sukun"
       },
-      "correct_answer": "A"
+      "answer": "C"
     },
     {
-      "question": "Why is it essential to control the tongue’s vibration during the articulation of Ra?",
+      "question": "How does the Zer differ in placement from the Zabar?",
       "options": {
-        "A": "To ensure nasal sound",
-        "B": "To avoid turning it into a Qalqalah sound",
-        "C": "To maintain its heavy/light distinction",
-        "D": "To prevent making two Ra sounds (Takreer)"
+        "A": "Zer is above, Zabar is below",
+        "B": "Zer is below, Zabar is above",
+        "C": "Both are placed below",
+        "D": "Both are placed above"
       },
-      "correct_answer": "D"
+      "answer": "B"
     },
     {
-      "question": "Which mistake commonly occurs when articulating Lam quickly?",
+      "question": "Which of the following represents the correct Zer form in Arabic script?",
       "options": {
-        "A": "It becomes a Noon",
-        "B": "It skips contact with the upper palate",
-        "C": "It becomes a Ra",
-        "D": "It changes to a throat letter"
+        "A": "ـَ",
+        "B": "ـُ",
+        "C": "ـِ",
+        "D": "ـْ"
       },
-      "correct_answer": "B"
+      "answer": "C"
     },
     {
-      "question": "What characteristic of the letter Noon allows it to be prolonged in some rules?",
+      "question": "What happens if the Zer is missed during recitation?",
       "options": {
-        "A": "Its position in the alphabet",
-        "B": "Its heaviness",
-        "C": "Its nasal origin",
-        "D": "Its root from the lips"
+        "A": "The meaning might remain unchanged",
+        "B": "It might elongate the sound",
+        "C": "It can completely change the meaning of the word",
+        "D": "It becomes silent"
       },
-      "correct_answer": "C"
+      "answer": "C"
     },
     {
-      "question": "Which is the correct sequence of articulation point zones from back to front for these letters?",
+      "question": "What is the main purpose of teaching Zer in this stage of the Qaida?",
       "options": {
-        "A": "Ra → Lam → Noon",
-        "B": "Noon → Lam → Ra",
-        "C": "Lam → Ra → Noon",
-        "D": "Ra → Noon → Lam"
+        "A": "To introduce long vowels",
+        "B": "To begin with Tanween rules",
+        "C": "To practice short vowel sounds and accurate articulation",
+        "D": "To teach advanced Tajweed concepts"
       },
-      "correct_answer": "A"
+      "answer": "C"
     }
   ]
 },
-  {
+{
   "lesson_number": 5,
-  "lesson_name": "Lips & Nose Sounds (م, ب, ن with Ghunnah)",
-  "category": "Makharij",
+  "lesson_name": "Pesh Explanation",
+  "category": "Qawaid",
   "questions": [
     {
-      "question": "Which two letters are specifically articulated from the lips (Shafatain)?",
+      "question": "Where is the 'Pesh' symbol placed relative to an Arabic letter?",
       "options": {
-        "A": "Meem (م) and Noon (ن)",
-        "B": "Meem (م) and Baa (ب)",
-        "C": "Noon (ن) and Baa (ب)",
-        "D": "Meem (م) and Fa (ف)"
+        "A": "Below the letter",
+        "B": "Above the letter",
+        "C": "Next to the letter",
+        "D": "Inside the letter"
       },
-      "correct_answer": "B"
+      "answer": "B"
     },
     {
-      "question": "What is the articulation point (makhraj) of the letter 'ب' (Baa)?",
+      "question": "Which English vowel sound closely resembles the sound of 'Pesh'?",
       "options": {
-        "A": "Inner part of both lips",
-        "B": "Between lips and teeth",
-        "C": "Between the tip of the tongue and upper palate",
-        "D": "Nasal passage"
+        "A": "A as in 'cat'",
+        "B": "I as in 'bit'",
+        "C": "U as in 'put'",
+        "D": "E as in 'bed'"
       },
-      "correct_answer": "A"
+      "answer": "C"
     },
     {
-      "question": "Which letter is pronounced by completely closing both lips together?",
+      "question": "What shape is the 'Pesh' symbol similar to?",
       "options": {
-        "A": "Meem (م)",
-        "B": "Baa (ب)",
-        "C": "Fa (ف)",
-        "D": "Noon (ن)"
+        "A": "A small 'alif'",
+        "B": "A wave line",
+        "C": "The Arabic letter 'Waw'",
+        "D": "A dot"
       },
-      "correct_answer": "B"
+      "answer": "C"
     },
     {
-      "question": "Which letter is articulated from the edge of the upper front teeth touching the inner part of the lower lip?",
+      "question": "What is a key physical trait when pronouncing 'Pesh' correctly?",
       "options": {
-        "A": "Meem (م)",
-        "B": "Fa (ف)",
-        "C": "Noon (ن)",
-        "D": "Baa (ب)"
+        "A": "Teeth clenched tightly",
+        "B": "Lips wide open",
+        "C": "Lips rounded outward",
+        "D": "Tongue touching roof of the mouth"
       },
-      "correct_answer": "B"
+      "answer": "C"
     },
     {
-      "question": "Ghunnah is primarily associated with which articulation area?",
+      "question": "Which example correctly demonstrates the sound of 'Baa' with 'Pesh'?",
       "options": {
-        "A": "Lips",
-        "B": "Throat",
-        "C": "Nasal cavity",
-        "D": "Tongue"
+        "A": "Ba",
+        "B": "Bu",
+        "C": "Bi",
+        "D": "Bo"
       },
-      "correct_answer": "C"
+      "answer": "B"
     },
     {
-      "question": "Which two letters are pronounced from the nasal cavity when accompanied by Ghunnah?",
+      "question": "When stopping (Waqf) at a word ending with 'Pesh', what happens?",
       "options": {
-        "A": "Meem (م) and Noon (ن)",
-        "B": "Baa (ب) and Noon (ن)",
-        "C": "Fa (ف) and Meem (م)",
-        "D": "Lam (ل) and Noon (ن)"
+        "A": "Pesh is stressed more",
+        "B": "Pesh changes to Sukoon",
+        "C": "Pesh is dropped",
+        "D": "Pesh is elongated"
       },
-      "correct_answer": "A"
+      "answer": "C"
     },
     {
-      "question": "What is the main difference between the Makhraj of Meem (م) and Baa (ب)?",
+      "question": "Which line demonstrates correct use of Pesh in the word 'رُسُل'?",
       "options": {
-        "A": "Meem uses lips; Baa uses nasal cavity",
-        "B": "Meem is articulated with partial closure of lips; Baa with complete closure",
-        "C": "Meem is tongue-based; Baa is lips-based",
-        "D": "Baa uses lips; Meem uses tongue"
+        "A": "Rusal",
+        "B": "Rusul",
+        "C": "Risul",
+        "D": "Rusalh"
       },
-      "correct_answer": "B"
+      "answer": "B"
     },
     {
-      "question": "Which letter cannot carry Ghunnah by nature?",
+      "question": "What mistake should be avoided when pronouncing 'Pesh'?",
       "options": {
-        "A": "Meem (م)",
-        "B": "Noon (ن)",
-        "C": "Baa (ب)",
-        "D": "Tanween"
+        "A": "Whispering the sound",
+        "B": "Keeping lips too wide",
+        "C": "Dragging the sound too long",
+        "D": "Skipping the letter"
       },
-      "correct_answer": "C"
+      "answer": "C"
     },
     {
-      "question": "In Tajweed, when Meem is followed by Meem, what rule is applied?",
+      "question": "In the example 'كُتِبَ', which letter carries the 'Pesh'?",
       "options": {
-        "A": "Ikhfa",
-        "B": "Idgham Shafawi",
-        "C": "Iqlab",
-        "D": "Izhar Halqi"
+        "A": "Kaaf",
+        "B": "Taa",
+        "C": "Baa",
+        "D": "Alif"
       },
-      "correct_answer": "B"
+      "answer": "A"
     },
     {
-      "question": "Which of the following is an example of Ghunnah applied through the nasal passage?",
+      "question": "Why is it important to maintain lip rounding in Pesh?",
       "options": {
-        "A": "أمّن",
-        "B": "قالوا",
-        "C": "مالك",
-        "D": "كبر"
+        "A": "To produce a nasal sound",
+        "B": "To make the sound stronger",
+        "C": "To avoid distortion of the vowel",
+        "D": "To elongate the sound"
       },
-      "correct_answer": "A"
+      "answer": "C"
     },
     {
-      "question": "How many counts are typically applied for Ghunnah in Noon Mushaddad and Meem Mushaddad?",
+      "question": "Which group of letters are commonly practiced with 'Pesh' in the lesson?",
       "options": {
-        "A": "1 count",
-        "B": "2 counts",
-        "C": "3 counts",
-        "D": "4 counts"
+        "A": "Jeem, Haa, Khaa",
+        "B": "Seen, Sheen, Saad",
+        "C": "Bay, Tay, Thay",
+        "D": "Kaaf, Laam, Meem"
       },
-      "correct_answer": "B"
+      "answer": "C"
     },
     {
-      "question": "What is the specific name of the Ghunnah rule when Noon Saakin is followed by Baa?",
+      "question": "Which rule was emphasized regarding 'Harkat' in this lesson?",
       "options": {
-        "A": "Idgham",
-        "B": "Izhar",
-        "C": "Iqlab",
-        "D": "Ikhfa"
+        "A": "Harkat must be stressed",
+        "B": "Harkat should be silent",
+        "C": "Harkat should not be lengthened",
+        "D": "Harkat should be doubled"
       },
-      "correct_answer": "C"
+      "answer": "C"
     },
     {
-      "question": "Which sound must be avoided when pronouncing Baa to ensure clarity in Makhraj?",
+      "question": "How many places in the exercise were identified where the last letter had 'Pesh'?",
       "options": {
-        "A": "Heavy sound (Tafkheem)",
-        "B": "Ghunnah",
-        "C": "Whistling",
-        "D": "Echoing (Qalqalah)"
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
       },
-      "correct_answer": "B"
+      "answer": "C"
     },
     {
-      "question": "Which of the following statements about Meem is TRUE?",
+      "question": "Which English word's vowel sound resembles 'Pesh' the most?",
       "options": {
-        "A": "It is pronounced only through the nasal passage.",
-        "B": "It is always accompanied by Ghunnah.",
-        "C": "It is a letter of lips and requires full lip closure with optional nasal sound.",
-        "D": "It is produced by touching tongue to teeth."
+        "A": "Bee",
+        "B": "Up",
+        "C": "Bit",
+        "D": "Sit"
       },
-      "correct_answer": "C"
+      "answer": "B"
     },
     {
-      "question": "Which of the following rules governs Noon Saakin when followed by Meem?",
+      "question": "How does the position of the tongue differ when pronouncing Pesh?",
       "options": {
-        "A": "Ikhfa Shafawi",
-        "B": "Idgham Shafawi",
-        "C": "Izhar Halqi",
-        "D": "Ikhfa Haqiqi"
+        "A": "Front of the tongue rises",
+        "B": "Back of the tongue lifts up",
+        "C": "Tongue remains flat",
+        "D": "Tip of tongue touches teeth"
       },
-      "correct_answer": "D"
+      "answer": "B"
     }
   ]
 },
   {
   "lesson_number": 6,
-  "lesson_name": "Letter Examples by Articulation Zones",
-  "category": "Makharij al-Huruf",
+  "lesson_name": "Do Zabar Ki Tanween",
+  "category": "Qawaid",
   "questions": [
     {
-      "question": "Which letter is articulated from the deepest part of the throat and is most commonly confused in recitation due to its closeness with another throat letter?",
+      "question": "What is formed when two Zabar signs are placed on a letter?",
       "options": {
-        "A": "ع ('Ayn)",
-        "B": "غ (Ghayn)",
-        "C": "خ (Khaa)",
-        "D": "ح (Haa)"
-      },
-      "correct_answer": "B"
-    },
-    {
-      "question": "In the articulation zone involving the tip of the tongue and the upper central incisors, which two letters are pronounced distinctly?",
-      "options": {
-        "A": "ت and ط",
-        "B": "ز and س",
-        "C": "ث and ذ",
-        "D": "ل and ن"
+        "A": "Tashdeed",
+        "B": "Sukoon",
+        "C": "Tanween",
+        "D": "Shaddah"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Identify the pair where both letters emerge from the lips but differ in strength and pressure characteristics.",
+      "question": "Which sound is hidden but understood when pronouncing Do Zabar?",
       "options": {
-        "A": "م and ب",
-        "B": "ف and ب",
-        "C": "م and ف",
-        "D": "ب and ن"
+        "A": "Laam",
+        "B": "Noon",
+        "C": "Meem",
+        "D": "Raa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "In Tanween, the hidden Noon sound is produced without what?",
+      "options": {
+        "A": "Writing Noon explicitly",
+        "B": "Using Sukoon",
+        "C": "Using Madd",
+        "D": "Adding Tashdeed"
       },
       "correct_answer": "A"
     },
     {
-      "question": "Which articulation zone produces the letters ط, د, and ت?",
+      "question": "What appears above the letter in Do Zabar but is not part of the original letter?",
       "options": {
-        "A": "Middle of the tongue",
-        "B": "Edge of the tongue and molars",
-        "C": "Tip of the tongue and gums of upper front teeth",
-        "D": "Lips"
+        "A": "Tashdeed",
+        "B": "Noon",
+        "C": "Alif",
+        "D": "Meem"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Which articulation point differentiates between the heavy ق and the light ك, though both originate from the same general area?",
+      "question": "Which of the following is a correct pronunciation example of Do Zabar?",
       "options": {
-        "A": "Middle of the throat",
-        "B": "Back of the tongue and soft palate",
-        "C": "Lips",
-        "D": "Tip of the tongue"
-      },
-      "correct_answer": "B"
-    },
-    {
-      "question": "From which makhraj do the letters س, ز, and ص originate?",
-      "options": {
-        "A": "Tip of the tongue with the gum ridge",
-        "B": "Middle of the tongue touching the roof",
-        "C": "Sides of the tongue touching the molars",
-        "D": "Tip of the tongue near the upper central incisors"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "Which of the following letters comes from the nasal passage and has no oral articulation?",
-      "options": {
-        "A": "ن (Noon)",
-        "B": "م (Meem)",
-        "C": "غ (Ghayn)",
-        "D": "None of the above"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "Which set of letters share the makhraj of the edge of the tongue touching the molars?",
-      "options": {
-        "A": "ل, ن, ر",
-        "B": "ض, ظ, ط",
-        "C": "ض only",
-        "D": "ث, ذ, ظ"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "What is the distinguishing characteristic of the articulation of the letter ظ (Zaa)?",
-      "options": {
-        "A": "It is pronounced from the lips but with strong vibration",
-        "B": "It comes from the tip of the tongue between upper and lower teeth",
-        "C": "It is articulated from the edge of the tongue",
-        "D": "It is produced from the nasal cavity"
-      },
-      "correct_answer": "B"
-    },
-    {
-      "question": "Which articulation zone includes letters that are crucial in Tajweed for their unique echoing sound?",
-      "options": {
-        "A": "Lips",
-        "B": "Throat",
-        "C": "Tip of tongue and upper front teeth",
-        "D": "Deep tongue and empty mouth space"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "Which letter is uniquely articulated by placing the bottom lip against the upper front teeth?",
-      "options": {
-        "A": "ب (Baa)",
-        "B": "ف (Faa)",
-        "C": "م (Meem)",
-        "D": "و (Waw)"
-      },
-      "correct_answer": "B"
-    },
-    {
-      "question": "Among the tongue letters, which one comes from the middle of the tongue and is considered heavy in pronunciation?",
-      "options": {
-        "A": "ج (Jeem)",
-        "B": "ش (Sheen)",
-        "C": "ي (Ya)",
-        "D": "ق (Qaaf)"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "When properly articulated, what distinguishes the letter ض (Daad) from other letters?",
-      "options": {
-        "A": "It has a nasal ghunnah",
-        "B": "It is articulated from the nasal cavity",
-        "C": "It uses the side of the tongue pressed against upper molars",
-        "D": "It emerges from the throat"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which group of letters is known to come from the deepest articulation point in the body?",
-      "options": {
-        "A": "ء, هـ",
-        "B": "ع, ح",
-        "C": "غ, خ",
-        "D": "ق, ك"
+        "A": "Ban",
+        "B": "Bat",
+        "C": "Bam",
+        "D": "Bar"
       },
       "correct_answer": "A"
     },
     {
-      "question": "Which of the following correctly matches a letter with its articulation zone: خ (Khaa)?",
+      "question": "In the word 'Amanatan', what does it become when we apply Waqf?",
       "options": {
-        "A": "Middle throat (Wasaṭ al-Ḥalq)",
-        "B": "Deep throat (Aṣfal al-Ḥalq)",
-        "C": "Back of the tongue (Aqṣā al-Lisān)",
-        "D": "Tip of the tongue (Taraf al-Lisān)"
+        "A": "Amanat",
+        "B": "Amana",
+        "C": "Aman",
+        "D": "Amani"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What happens to Do Zabar during Waqf according to the rules?",
+      "options": {
+        "A": "One Zabar remains, one is removed",
+        "B": "Both Zabar remain",
+        "C": "Both Zabar become Sukoon",
+        "D": "One Zabar changes to Madd"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What replaces the sound of Tanween in Waqf for feminine words ending in Taa Marbuta?",
+      "options": {
+        "A": "Zabar with Laam",
+        "B": "Noon with Sukoon",
+        "C": "Alif with long vowel sound",
+        "D": "The dots and Tanween are removed"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "In Waqf, how is 'Ajlan' pronounced?",
+      "options": {
+        "A": "Ajala",
+        "B": "Ajl",
+        "C": "Ajlaan",
+        "D": "Ajla"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which letter is associated with the hidden sound in Do Zabar Tanween?",
+      "options": {
+        "A": "Raa",
+        "B": "Laam",
+        "C": "Noon",
+        "D": "Kha"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does Tanween affect the rhythm of Quranic recitation?",
+      "options": {
+        "A": "It creates echo",
+        "B": "It smooths transitions with hidden sounds",
+        "C": "It makes letters silent",
+        "D": "It stops the flow completely"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which rule causes a word like 'رحمۃً' to lose its Tanween during pause?",
+      "options": {
+        "A": "Madd",
+        "B": "Izhar",
+        "C": "Waqf",
+        "D": "Idghaam"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What should be understood about the presence of Alif in Tanween?",
+      "options": {
+        "A": "It must be pronounced clearly",
+        "B": "It is never visible",
+        "C": "It is written for elongation but not pronounced",
+        "D": "It replaces the Noon"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT true about Do Zabar Tanween?",
+      "options": {
+        "A": "It adds a Noon sound",
+        "B": "It is visible as two diagonal strokes",
+        "C": "It changes into Sukoon at Waqf",
+        "D": "It is found at the end of certain nouns"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "When applying Waqf, what becomes of the dots on the Taa Marbuta?",
+      "options": {
+        "A": "They are doubled",
+        "B": "They disappear",
+        "C": "They are pronounced loudly",
+        "D": "They are replaced by Sukoon"
       },
       "correct_answer": "B"
     }
@@ -943,166 +943,325 @@
 },
   {
   "lesson_number": 7,
-  "lesson_title": "Practice with Correct Pronunciation",
-  "category": "Makharij al-Huruf",
+  "lesson_name": "Do Zer ki Tanween (Two Kasra Tanween)",
+  "category": "Qawaid",
   "questions": [
     {
-      "question": "Which of the following words contains a clear example of the letter 'ع' being pronounced from its correct articulation point?",
+      "question": "What transforms a single Kasra (Zer) into Do Zer (Tanween) according to the lesson?",
       "options": {
-        "A": "غيب",
-        "B": "عمل",
-        "C": "نعم",
-        "D": "حق"
+        "A": "Adding a Waw",
+        "B": "Adding a Noon sound",
+        "C": "Adding a Shadda",
+        "D": "Adding a Sukoon"
       },
       "correct_answer": "B"
     },
     {
-      "question": "What is a common pronunciation mistake made with the letter 'ق'?",
+      "question": "Which element is *dropped* during Waqf (pausing) in Do Zer according to the lesson explanation?",
       "options": {
-        "A": "Pronouncing it like 'ك' from the mid-tongue",
-        "B": "Replacing it with 'خ'",
-        "C": "Not using the nasal sound",
-        "D": "Pronouncing it with the lips"
+        "A": "Zabar only",
+        "B": "Noon letter",
+        "C": "The full Tanween (Noon sound)",
+        "D": "Madd sound"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the Noon in Do Zer represent in pronunciation as taught in the lesson?",
+      "options": {
+        "A": "Visible letter Noon",
+        "B": "Sukoon on Noon",
+        "C": "Only Noon sound (not written)",
+        "D": "Heavy Noon with Madd"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is correct based on phonics practice in the lesson?",
+      "options": {
+        "A": "بِ + ن = بِن",
+        "B": "بَ + ن = بِن",
+        "C": "بُ + ن = بِن",
+        "D": "بَ + ر = بِن"
       },
       "correct_answer": "A"
     },
     {
-      "question": "To practice proper articulation of 'ط', one must emphasize:",
+      "question": "How is Tanween affected in the case of Waqf when reciting according to the rules in the lesson?",
       "options": {
-        "A": "Softness and breathiness",
-        "B": "Heavy sound from the throat",
-        "C": "Pressure from the tongue against the roof of the mouth",
-        "D": "A quick release from the nasal cavity"
+        "A": "It remains unchanged",
+        "B": "It is replaced with Sukoon",
+        "C": "It is dropped completely",
+        "D": "It changes to Madd"
       },
       "correct_answer": "C"
     },
     {
-      "question": "When pronouncing the letter 'ذ' correctly, the tip of the tongue should:",
+      "question": "Why is Hamzah sometimes pronounced instead of Alif according to the lesson?",
       "options": {
-        "A": "Touch the upper front teeth",
-        "B": "Touch the hard palate",
-        "C": "Protrude slightly between the upper and lower teeth",
-        "D": "Remain behind the bottom front teeth"
+        "A": "Because Alif carries Madd",
+        "B": "Because it appears in the middle of the word",
+        "C": "Because the sound matches Hamzah",
+        "D": "Because of Sukoon on Alif"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Why is it important to differentiate between 'س' and 'ص' in recitation?",
+      "question": "In phonics practice, which word represents the proper application of Do Zer Tanween rule?",
       "options": {
-        "A": "Because they are the same in Tajweed",
-        "B": "Because 'ص' is heavier and comes from a different articulation point",
-        "C": "Because 'س' has a longer duration",
-        "D": "Because both are nasal sounds"
+        "A": "جَ + ن = جِن",
+        "B": "بِ + ن = بِن",
+        "C": "تَ + ن = تِن",
+        "D": "سَ + ن = سِن"
       },
       "correct_answer": "B"
     },
     {
-      "question": "Identify the word where the letter 'ظ' is correctly articulated from the sides of the tongue and molars.",
+      "question": "Which example includes Tanween with correct articulation as per the lesson?",
       "options": {
-        "A": "ظهر",
-        "B": "ظن",
-        "C": "نظر",
-        "D": "غظب"
+        "A": "مِن",
+        "B": "فَ",
+        "C": "كُفْ",
+        "D": "صَف"
       },
       "correct_answer": "A"
     },
     {
-      "question": "Which articulation error commonly occurs when pronouncing 'ج'?",
+      "question": "What happens to the sound of Do Zer in fluency (phonics) when Waqf is applied?",
       "options": {
-        "A": "Replacing it with 'ش'",
-        "B": "Not using the vocal cords",
-        "C": "Making it too breathy",
-        "D": "Using the back of the tongue"
+        "A": "It is prolonged",
+        "B": "It is changed to Sukoon",
+        "C": "The Noon sound is dropped",
+        "D": "It becomes a silent letter"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which line from the lesson demonstrates correct use of Do Zer during Tajweed reading?",
+      "options": {
+        "A": "بَ جَ",
+        "B": "بِ نْ",
+        "C": "بِ ن = بِن",
+        "D": "بَ نْ"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the impact of dropping Tanween in final pronunciation during Waqf?",
+      "options": {
+        "A": "It creates a Madd sound",
+        "B": "It changes the meaning",
+        "C": "It causes Kalqala",
+        "D": "It ends on a consonant without Tanween"
       },
       "correct_answer": "D"
     },
     {
-      "question": "In the word 'يعملون', which articulation point is used for the letter 'ي'?",
+      "question": "What role does the letter 'ن' play in Do Zer pronunciation as explained in the lesson?",
       "options": {
-        "A": "Lips",
-        "B": "Middle of the tongue",
-        "C": "Tip of the tongue",
-        "D": "Throat"
+        "A": "It is pronounced fully and visibly",
+        "B": "It adds a hidden nasal sound",
+        "C": "It is always written with Shadda",
+        "D": "It is used only at the end of sentences"
       },
       "correct_answer": "B"
     },
     {
-      "question": "Which of the following must be avoided when practicing Makharij?",
+      "question": "Which word demonstrates Waqf on Do Zer accurately?",
       "options": {
-        "A": "Using pressure and echo on certain letters",
-        "B": "Using mirror or recordings",
-        "C": "Imitating native Arabic speakers",
-        "D": "Blurring the articulation point between two close letters"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "What happens when 'ه' is incorrectly pronounced from the chest instead of its true articulation point?",
-      "options": {
-        "A": "It becomes heavy like 'ح'",
-        "B": "It gains unnecessary breathiness",
-        "C": "It sounds like a soft cough",
-        "D": "It loses clarity and sharpness"
-      },
-      "correct_answer": "D"
-    },
-    {
-      "question": "When reciting the letter 'ن' with sukoon followed by 'ب', what Tajweed rule should be practiced?",
-      "options": {
-        "A": "Ikhfa",
-        "B": "Idgham",
-        "C": "Iqlab",
-        "D": "Izhar"
+        "A": "بِنْ",
+        "B": "بِنَ",
+        "C": "بِ",
+        "D": "بِن"
       },
       "correct_answer": "C"
     },
     {
-      "question": "Which letter’s correct pronunciation involves pressing the sides of the tongue against the upper molars?",
+      "question": "According to the lesson, how do you identify Do Zer visually in the Quran?",
       "options": {
-        "A": "ض",
-        "B": "ص",
-        "C": "ج",
-        "D": "ق"
+        "A": "Two slashes below the letter",
+        "B": "Double Dammah above the letter",
+        "C": "Shadda on the last letter",
+        "D": "Two dots after the letter"
       },
       "correct_answer": "A"
     },
     {
-      "question": "Which of the following words will help best in practicing the correct articulation of 'ث'?",
+      "question": "In the Tajweed exercise, what is the role of phonics with Do Zer?",
       "options": {
-        "A": "ثوب",
-        "B": "سوق",
-        "C": "توبة",
-        "D": "ذنب"
-      },
-      "correct_answer": "A"
-    },
-    {
-      "question": "To ensure correct Makharij during recitation, what practice method is most effective?",
-      "options": {
-        "A": "Reading silently in mind",
-        "B": "Listening to non-native speakers",
-        "C": "Slow recitation with proper mouth movement",
-        "D": "Focusing only on speed"
-      },
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which letter is commonly mispronounced due to similarity with English 'R'?",
-      "options": {
-        "A": "ر",
-        "B": "ق",
-        "C": "ل",
-        "D": "ن"
+        "A": "It sharpens the sound",
+        "B": "It adds elongation",
+        "C": "It replaces the letter",
+        "D": "It removes Waqf signs"
       },
       "correct_answer": "A"
     }
   ]
-}
+},
+  {
+  "lesson_number": 8,
+  "lesson_name": "Do Pesh ki Tanween",
+  "category": "Qawaid",
+  "questions": [
+    {
+      "question": "What is the correct pronunciation technique for Do Pesh ki Tanween in the word 'کُتُبٌ'?",
+      "options": {
+        "A": "By stretching the sound slightly",
+        "B": "By adding nasalization",
+        "C": "By pronouncing two clear Pesh sounds",
+        "D": "By pausing slightly after the word"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following examples correctly demonstrates Do Pesh ki Tanween?",
+      "options": {
+        "A": "سَمَاءً",
+        "B": "کِتَابٍ",
+        "C": "کُتُبٌ",
+        "D": "قَمَرًا"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the sound produced by Do Pesh ki Tanween at the end of a noun?",
+      "options": {
+        "A": "An sound",
+        "B": "Un sound",
+        "C": "In sound",
+        "D": "Uun sound"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "In terms of pronunciation, how does Do Pesh ki Tanween differ from a single Pesh?",
+      "options": {
+        "A": "It is shorter",
+        "B": "It produces a 'noon saakin' sound",
+        "C": "It is used at the beginning of words",
+        "D": "It requires heavy voice"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which rule applies when a Do Pesh ki Tanween is followed by a letter with a Noon sound?",
+      "options": {
+        "A": "Izhar",
+        "B": "Idgham",
+        "C": "Iqlab",
+        "D": "Ghunna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the common mistake students make while pronouncing Do Pesh ki Tanween?",
+      "options": {
+        "A": "Confusing it with Zabar Tanween",
+        "B": "Skipping the nasalization",
+        "C": "Adding extra vowels",
+        "D": "Pronouncing it as full Noon"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "In which of the following words is Do Pesh ki Tanween incorrectly applied?",
+      "options": {
+        "A": "مُسْلِمٌ",
+        "B": "صَفَرٌ",
+        "C": "رَسُولٌ",
+        "D": "نُجُومًا"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which Tajweed rule is commonly linked with the proper recitation of Do Pesh ki Tanween?",
+      "options": {
+        "A": "Idgham with Ghunnah",
+        "B": "Qalqalah",
+        "C": "Tarqeeq",
+        "D": "Tafkheem"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which term best defines the Do Pesh ki Tanween?",
+      "options": {
+        "A": "Double Dammah with Noon Saakin",
+        "B": "Double Kasrah",
+        "C": "Single Pesh",
+        "D": "Double Fatha"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How should the Do Pesh ki Tanween be recited when followed by a Ba letter?",
+      "options": {
+        "A": "With Ghunnah and Idgham",
+        "B": "With Iqlab",
+        "C": "With full stop",
+        "D": "Without Ghunna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What happens to the Noon sound in Do Pesh ki Tanween during Idgham?",
+      "options": {
+        "A": "It is lengthened",
+        "B": "It is pronounced separately",
+        "C": "It merges with the next letter",
+        "D": "It is skipped"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "In the word 'مُؤْمِنٌ', what is the purpose of Do Pesh ki Tanween?",
+      "options": {
+        "A": "To elongate the word",
+        "B": "To add grammatical case ending",
+        "C": "To soften the sound",
+        "D": "To introduce a new syllable"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of these is the most correct description of Do Pesh ki Tanween in classical Tajweed?",
+      "options": {
+        "A": "Two vowels placed after a verb",
+        "B": "Two Dammahs forming a Noon sound at word end",
+        "C": "Double Zabar with Shaddah",
+        "D": "Two Fatha after the Noon letter"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is understanding Do Pesh ki Tanween critical in Quranic grammar?",
+      "options": {
+        "A": "It decides pause positions",
+        "B": "It changes meanings of words",
+        "C": "It marks end of sentences",
+        "D": "It affects Tajweed rules application"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "When stopping at a word ending in Do Pesh ki Tanween, what change is made?",
+      "options": {
+        "A": "Pronounced as In",
+        "B": "Pronounced as Noon",
+        "C": "Pesh dropped and word ends in Sukoon",
+        "D": "Added Madd sound"
+      },
+      "correct_answer": "C"
+    }
+  ]
+},
 
 
 
 
 
 
+  
 
+  
 ]
