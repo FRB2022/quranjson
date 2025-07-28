@@ -13,7 +13,7 @@
     "title": "Detailed Makharij Breakdown",
     "title_urdu": "مخارج کی تفصیل",
     "english_title": "Detailed Articulation Breakdown",
-    "level": "Intermediate",
+    "level": "Beginner",
     "tags": ["makharij", "throat letters", "tongue letters"],
     "category": "Makharij"
   },
@@ -22,7 +22,7 @@
     "title": "Empty Space (Jawf) Letters",
     "title_urdu": "حروف جوف",
     "english_title": "Jawf Letters",
-    "level": "Intermediate",
+    "level": "Beginner",
     "tags": ["jawf", "elongation", "alif", "waw", "yaa"],
     "category": "Makharij"
   },
@@ -31,7 +31,7 @@
     "title": "Throat (Halaq) Letters",
     "title_urdu": "حروف حلق",
     "english_title": "Halaq Letters",
-    "level": "Intermediate",
+    "level": "Beginner",
     "tags": ["throat", "deep letters", "makhraj"],
     "category": "Makharij"
   },
@@ -40,7 +40,7 @@
     "title": "Tongue (Lisaan) Letters",
     "title_urdu": "حروف لسان",
     "english_title": "Tongue Letters",
-    "level": "Intermediate",
+    "level": "Beginner",
     "tags": ["lisaan", "tongue positions", "makharij"],
     "category": "Makharij"
   },
@@ -49,7 +49,7 @@
     "title": "Lips (Shafatan) Letters",
     "title_urdu": "حروف شفتان",
     "english_title": "Lip Letters",
-    "level": "Intermediate",
+    "level": "Beginner",
     "tags": ["shafatain", "lip sounds", "ba", "meem", "waw"],
     "category": "Makharij"
   },
@@ -58,7 +58,7 @@
     "title": "Nasal Cavity (Khaishoom)",
     "title_urdu": "خیشوم",
     "english_title": "Nasal Sound (Ghunnah)",
-    "level": "Intermediate",
+    "level": "Beginner",
     "tags": ["nasal", "ghunnah", "noon", "meem"],
     "category": "Makharij"
   },
